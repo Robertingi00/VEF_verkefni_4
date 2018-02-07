@@ -35,5 +35,5 @@ def error500(error):
            '<a href="../">Til baka</a>'
 
 
-run()
 
+run(host="0.0.0.0", port=os.environ.get('PORT'))
