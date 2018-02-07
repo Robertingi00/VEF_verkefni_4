@@ -15,6 +15,7 @@
 			<div class="kt">Kt: {{nemandi['kt']}}</</div>
 			<div class="braut">Braut: {{nemandi['braut']}}</div>
 			<div class="mail">Mail: {{nemandi['mail']}}</div>
+			<a href="../"><h3>Home</h3></a>
 		</article>
 	</section>
 	<footer><h6>verkefni 4 - Vefforritun - Róbert Ingi Hálfdanarson</h6></footer>
