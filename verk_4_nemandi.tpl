@@ -8,7 +8,7 @@
 	<header><h1>Nemandi</h1></header>
 	<section>
 		<article class="left">
-			<img src="/static/{{nemandi['kyn']}}{{tala}}.png" width="200px" height="auto"></div>
+			<img src="/static/{{nemandi['kyn']}}.png" width="200px" height="auto"></div>
 		</article>
 		<article class="right">	
 			<div class="nafn">Nafn: {{nemandi['nafn']}}</div>
