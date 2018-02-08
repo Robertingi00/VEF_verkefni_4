@@ -1,1 +1,3009 @@
-{"nemendur": [{"kt": "1206734249", "nafn": "Daníel Símon Galvez", "braut": "Tölvufræðibraut","mail":"danielS@tskoli.is"}, {"kt": "0201162690", "nafn": "Hilmir Þór Galvez", "braut": "Grunndeild rafiðna","mail":"hilmar@tskoli.is"}, {"kt": "1101051239", "nafn": "Kamilla Björk Arthursdóttir", "braut": "Náttúruvísindabraut","mail":"kamilla@tskoli.is"}]}
+{
+  "nemendur": [{
+    "kt": "0408982209",
+    "nafn": "P\u00e9tur Steinn Gu\u00f0mundsson",
+    "braut": "T\u00f6lvubraut",
+    "email": "peturgu220.nemi@tskoli.is",
+    "kyn": "kk"
+  }, {
+    "kt": "0507928547",
+    "nafn": "Karen Lind Helgad\u00f3ttir",
+    "braut": "S\u00e9rdeild, starfsn\u00e1msbrautir",
+    "email": "karenhe854@simnet.is",
+    "kyn": "kvk"
+  }, {
+    "kt": "2210906083",
+    "nafn": "Vigd\u00eds L\u00e1ra Bj\u00f6rnsd\u00f3ttir",
+    "braut": "Fatat\u00e6knir",
+    "email": "vigdisbj608@hotmail.com",
+    "kyn": "kvk"
+  }, {
+    "kt": "0110889205",
+    "nafn": "Krist\u00f3fer Tryggvi Hjaltason",
+    "braut": "Blindflugs\u00e1ritun",
+    "email": "kristoferhj920@live.com",
+    "kyn": "kk"
+  }, {
+    "kt": "2611853763",
+    "nafn": "Hrefna Sigur\u00f0sd\u00f3ttir",
+    "braut": "St\u00fadentspr\u00f3f af fagbraut",
+    "email": "hrefnasi376@hotmail.com",
+    "kyn": "kvk"
+  }, {
+    "kt": "1908864906",
+    "nafn": "P\u00e9tur Elvar Alexandersson",
+    "braut": "N\u00e1tt\u00farufr\u00e6\u00f0ibrautir",
+    "email": "petural490@live.com",
+    "kyn": "kk"
+  }, {
+    "kt": "3110922713",
+    "nafn": "Bjarni Valur \u00cdsaksson",
+    "braut": "T\u00e6kniteiknun",
+    "email": "bjarni\u00eds271@simnet.is",
+    "kyn": "kk"
+  }, {
+    "kt": "1109973754",
+    "nafn": "Einar Kjartansson",
+    "braut": "T\u00f6lvubraut",
+    "email": "einarkj375@vodafone.is",
+    "kyn": "kk"
+  }, {
+    "kt": "2704979484",
+    "nafn": "Ingibj\u00f6rg Sif Mikkaelsd\u00f3ttir",
+    "braut": "V\u00e9lstj\u00f3rn -  N\u00e1msstig A, B, C, D",
+    "email": "ingibj\u00f6rgmi948@live.com",
+    "kyn": "kvk"
+  }, {
+    "kt": "0307838770",
+    "nafn": "\u00de\u00f3rir R\u00fanarsson",
+    "braut": "JOC - \u00dej\u00e1lfun \u00ed \u00feotuflugi",
+    "email": "thorirru877@hotmail.com",
+    "kyn": "kk"
+  }, {
+    "kt": "1101965302",
+    "nafn": "Ragnhei\u00f0ur Rakel \u00d3lafsd\u00f3ttir",
+    "braut": "Brautir Meistarask\u00f3lans",
+    "email": "ragnheidur\u00f3l530@outlook.com",
+    "kyn": "kvk"
+  }, {
+    "kt": "0405979700",
+    "nafn": "A\u00f0alhei\u00f0ur Elvarsd\u00f3ttir",
+    "braut": "Blindflugs\u00e1ritun",
+    "email": "adalheidurel970@onemail.com",
+    "kyn": "kvk"
+  }, {
+    "kt": "2309909675",
+    "nafn": "Alexander J\u00f6kull Eir\u00edksson",
+    "braut": "P\u00edpulagnir",
+    "email": "alexanderei967@hotmail.com",
+    "kyn": "kk"
+  }, {
+    "kt": "1003981505",
+    "nafn": "\u00de\u00f3rir Gr\u00e9tar Aronsson",
+    "braut": "Rafvirkjun",
+    "email": "thorirar150@onemail.com",
+    "kyn": "kk"
+  }, {
+    "kt": "2712991512",
+    "nafn": "Anna Berglind \u00de\u00f3rirsd\u00f3ttir",
+    "braut": "Almenn n\u00e1msbraut Handverkssk\u00f3lans",
+    "email": "anna\u00feo151@simnet.is",
+    "kyn": "kvk"
+  }, {
+    "kt": "2306882165",
+    "nafn": "Brynjar M\u00e1ni Valdimarsson",
+    "braut": "Almenn n\u00e1msbraut Skipstj\u00f3rnarsk\u00f3lans",
+    "email": "brynjarva216@live.com",
+    "kyn": "kk"
+  }, {
+    "kt": "2309965756",
+    "nafn": "Helena Einarsd\u00f3ttir",
+    "braut": "St\u00e1lsm\u00ed\u00f0abraut",
+    "email": "helenaei575@hotmail.com",
+    "kyn": "kvk"
+  }, {
+    "kt": "2010937423",
+    "nafn": "Emil Emilsson",
+    "braut": "Vefsk\u00f3linn",
+    "email": "emilem742@outlook.com",
+    "kyn": "kk"
+  }, {
+    "kt": "1103807626",
+    "nafn": "Svava Bj\u00f6rt Bjarkad\u00f3ttir",
+    "braut": "St\u00e1lsm\u00ed\u00f0abraut",
+    "email": "svavabj762@yahoo.com",
+    "kyn": "kvk"
+  }, {
+    "kt": "1211933714",
+    "nafn": "\u00c1rni Gunnar Kristj\u00e1nsson",
+    "braut": "\u00c1hafnarsamstarf MCC",
+    "email": "arnikr371@hotmail.com",
+    "kyn": "kk"
+  }, {
+    "kt": "2009849924",
+    "nafn": "Viktor\u00eda Vala Gu\u00f0mundsd\u00f3ttir",
+    "braut": "V\u00e9lt\u00e6knisk\u00f3linn - grunnn\u00e1m",
+    "email": "viktoriagu992@outlook.com",
+    "kyn": "kvk"
+  }, {
+    "kt": "1902981696",
+    "nafn": "Erna \u00ddr \u00de\u00f3r\u00f0ard\u00f3ttir",
+    "braut": "Almenn n\u00e1msbraut Skipstj\u00f3rnarsk\u00f3lans",
+    "email": "erna\u00feo169@aol.com",
+    "kyn": "kvk"
+  }, {
+    "kt": "3012888907",
+    "nafn": "A\u00f0alhei\u00f0ur Bj\u00f6rgvinsd\u00f3ttir",
+    "braut": "Flugkennari",
+    "email": "adalheidurbj890@hotmail.com",
+    "kyn": "kvk"
+  }, {
+    "kt": "2012988738",
+    "nafn": "\u00de\u00f3rd\u00eds Arn\u00f3rsd\u00f3ttir",
+    "braut": "Janus endurh\u00e6fing",
+    "email": "thordisar873@gmail.com",
+    "kyn": "kvk"
+  }, {
+    "kt": "0303878675",
+    "nafn": "Soff\u00eda Gu\u00f0nad\u00f3ttir",
+    "braut": "Veggf\u00f3\u00f0run og d\u00fakalagnir",
+    "email": "soffiagu867@outlook.com",
+    "kyn": "kvk"
+  }, {
+    "kt": "1408867089",
+    "nafn": "Kristj\u00e1n Bj\u00f6rgvinsson",
+    "braut": "Almenn n\u00e1msbraut V\u00e9lt\u00e6knisk\u00f3lans",
+    "email": "kristjanbj708@outlook.com",
+    "kyn": "kk"
+  }, {
+    "kt": "0503876033",
+    "nafn": "\u00d3lafur Aronsson",
+    "braut": "Grunnn\u00e1msk. flugfr.og flug\u00fej\u00f3na",
+    "email": "olafurar603@gmail.com",
+    "kyn": "kk"
+  }, {
+    "kt": "0307903214",
+    "nafn": "Stef\u00e1n \u00deorsteinsson",
+    "braut": "Almenn n\u00e1msbraut AN UTN",
+    "email": "stefan\u00feo321@hotmail.com",
+    "kyn": "kk"
+  }, {
+    "kt": "2910871955",
+    "nafn": "A\u00f0alhei\u00f0ur Gu\u00f0laug \u00de\u00f3rarinsd\u00f3ttir",
+    "braut": "H\u00fasasm\u00ed\u00f0i",
+    "email": "adalheidur\u00feo195@outlook.com",
+    "kyn": "kvk"
+  }, {
+    "kt": "2601805436",
+    "nafn": "Krist\u00edn Steinarsd\u00f3ttir",
+    "braut": "Einkaflugmannsn\u00e1m",
+    "email": "kristinst543@vodafone.is",
+    "kyn": "kvk"
+  }, {
+    "kt": "0112955558",
+    "nafn": "Margr\u00e9t \u00de\u00f3runn Kristj\u00e1nsd\u00f3ttir",
+    "braut": "Fatat\u00e6knir",
+    "email": "margretkr555@vodafone.is",
+    "kyn": "kvk"
+  }, {
+    "kt": "1404973317",
+    "nafn": "Steinar P\u00e9tursson",
+    "braut": "Atvinnuflugma\u00f0ur",
+    "email": "steinarpe331@hotmail.com",
+    "kyn": "kk"
+  }, {
+    "kt": "2603973113",
+    "nafn": "Hj\u00f6rd\u00eds Svava G\u00edslad\u00f3ttir",
+    "braut": "Almennt n\u00e1m",
+    "email": "hj\u00f6rdisgi311@gmail.com",
+    "kyn": "kvk"
+  }, {
+    "kt": "1406975914",
+    "nafn": "Sandra Dr\u00f6fn Arnard\u00f3ttir",
+    "braut": "Almenn n\u00e1msbraut Handverkssk\u00f3lans",
+    "email": "sandraar591@simnet.is",
+    "kyn": "kvk"
+  }, {
+    "kt": "2609805426",
+    "nafn": "J\u00f3hann Stef\u00e1n Dan\u00edelsson",
+    "braut": "Rafvirkjun",
+    "email": "johannda542@onemail.com",
+    "kyn": "kk"
+  }, {
+    "kt": "1211863084",
+    "nafn": "\u00c1sa Vala Dagursd\u00f3ttir",
+    "braut": "Flugvirkjan\u00e1m",
+    "email": "asada308@hotmail.com",
+    "kyn": "kvk"
+  }, {
+    "kt": "0205982260",
+    "nafn": "\u00deorbj\u00f6rg D\u00f6gg Kristj\u00e1nsd\u00f3ttir",
+    "braut": "St\u00fadentspr\u00f3f af fagbraut",
+    "email": "thorbj\u00f6rgkr226@outlook.com",
+    "kyn": "kvk"
+  }, {
+    "kt": "2706946485",
+    "nafn": "Mar\u00eda Benediktsd\u00f3ttir",
+    "braut": "Almenn n\u00e1msbraut Skipstj\u00f3rnarsk\u00f3lans",
+    "email": "mariabe648@live.com",
+    "kyn": "kvk"
+  }, {
+    "kt": "0905818885",
+    "nafn": "Sandra \u00c1sa P\u00e9tursd\u00f3ttir",
+    "braut": "S\u00e9rdeild, starfsn\u00e1msbrautir",
+    "email": "sandrape888@vodafone.is",
+    "kyn": "kvk"
+  }, {
+    "kt": "1204904951",
+    "nafn": "\u00de\u00f3rd\u00eds Laufey Snorrad\u00f3ttir",
+    "braut": "Grunnn\u00e1m bygg. og mannvirkja",
+    "email": "thordissn495@outlook.com",
+    "kyn": "kvk"
+  }, {
+    "kt": "1210956246",
+    "nafn": "Ingibj\u00f6rg Ingibj\u00f6rg Dav\u00ed\u00f0sd\u00f3ttir",
+    "braut": "M\u00fari\u00f0n",
+    "email": "ingibj\u00f6rgda624@simnet.is",
+    "kyn": "kvk"
+  }, {
+    "kt": "0711886710",
+    "nafn": "Sindri M\u00e1ni Arnarson",
+    "braut": "Flugkennari",
+    "email": "sindriar671@aol.com",
+    "kyn": "kk"
+  }, {
+    "kt": "1304914743",
+    "nafn": "\u00d6rn Ingvar Magn\u00fasson",
+    "braut": "Almenn n\u00e1msbraut Raft\u00e6knisk\u00f3lans",
+    "email": "\u00f6rnma474@outlook.com",
+    "kyn": "kk"
+  }, {
+    "kt": "3105986486",
+    "nafn": "Kristinn Gu\u00f0j\u00f3n P\u00e9tursson",
+    "braut": "Grunnn\u00e1m bygg. og mannvirkja",
+    "email": "kristinnpe648@hotmail.com",
+    "kyn": "kk"
+  }, {
+    "kt": "2701874071",
+    "nafn": "Halla Dagursd\u00f3ttir",
+    "braut": "Prentsm\u00ed\u00f0",
+    "email": "hallada407@yahoo.com",
+    "kyn": "kvk"
+  }, {
+    "kt": "1009915126",
+    "nafn": "Gu\u00f0ni \u00d3mar R\u00fanarsson",
+    "braut": "Janus endurh\u00e6fing",
+    "email": "gudniru512@hotmail.com",
+    "kyn": "kk"
+  }, {
+    "kt": "0611808889",
+    "nafn": "Hrafnhildur Stefan\u00eda Baldursd\u00f3ttir",
+    "braut": "Almenn n\u00e1msbraut Raft\u00e6knisk\u00f3lans",
+    "email": "hrafnhildurba888@live.com",
+    "kyn": "kvk"
+  }, {
+    "kt": "0412958341",
+    "nafn": "Hafsteinn Ragnarsson",
+    "braut": "Gull- og silfursm\u00ed\u00f0i",
+    "email": "hafsteinnra834@outlook.com",
+    "kyn": "kk"
+  }, {
+    "kt": "0404856281",
+    "nafn": "S\u00f3ley Hauksd\u00f3ttir",
+    "braut": "Fatai\u00f0n",
+    "email": "soleyha628@vodafone.is",
+    "kyn": "kvk"
+  }, {
+    "kt": "1608952735",
+    "nafn": "Anna D\u00f6gg \u00c1sgeirsd\u00f3ttir",
+    "braut": "St\u00fadentspr\u00f3f af fagbraut",
+    "email": "anna\u00e1s273@onemail.com",
+    "kyn": "kvk"
+  }, {
+    "kt": "1410845684",
+    "nafn": "Ari Axelsson",
+    "braut": "Brautir Meistarask\u00f3lans",
+    "email": "ariax568@live.com",
+    "kyn": "kk"
+  }, {
+    "kt": "1102943979",
+    "nafn": "Snorri El\u00ed \u00c1g\u00fastsson",
+    "braut": "Rafvirkjun",
+    "email": "snorri\u00e1g397@simnet.is",
+    "kyn": "kk"
+  }, {
+    "kt": "0105833796",
+    "nafn": "Helga Bj\u00f6rgvinsd\u00f3ttir",
+    "braut": "Almenn n\u00e1msbraut Raft\u00e6knisk\u00f3lans",
+    "email": "helgabj379@yahoo.com",
+    "kyn": "kvk"
+  }, {
+    "kt": "2710904632",
+    "nafn": "R\u00f3bert Helgi Ingason",
+    "braut": "Almenn n\u00e1msbraut Byggingat\u00e6knisk\u00f3lans",
+    "email": "robertin463@live.com",
+    "kyn": "kk"
+  }, {
+    "kt": "2903928800",
+    "nafn": "Dagn\u00fd S\u00e6varsd\u00f3ttir",
+    "braut": "Brautir Meistarask\u00f3lans",
+    "email": "dagnysa880@aol.com",
+    "kyn": "kvk"
+  }, {
+    "kt": "3110987654",
+    "nafn": "Sigurlaug Halla Matth\u00edasd\u00f3ttir",
+    "braut": "Grunnn\u00e1msk. flugfr.og flug\u00fej\u00f3na",
+    "email": "sigurlaugma765@live.com",
+    "kyn": "kvk"
+  }, {
+    "kt": "2806975547",
+    "nafn": "Axel Bj\u00f6rgvin S\u00e6varsson",
+    "braut": "Einkaflugmannsn\u00e1m",
+    "email": "axelsa554@hotmail.com",
+    "kyn": "kk"
+  }, {
+    "kt": "0102852998",
+    "nafn": "Axel Orri Axelsson",
+    "braut": "Almenn n\u00e1msbraut Raft\u00e6knisk\u00f3lans",
+    "email": "axelax299@live.com",
+    "kyn": "kk"
+  }, {
+    "kt": "2705851068",
+    "nafn": "H\u00f6r\u00f0ur T\u00f3mas Valdimarsson",
+    "braut": "Lj\u00f3smyndun",
+    "email": "h\u00f6rdurva106@gmail.com",
+    "kyn": "kk"
+  }, {
+    "kt": "0207854553",
+    "nafn": "Egill Gunnar J\u00f3hannesson",
+    "braut": "S\u00e9rdeild, starfsn\u00e1msbrautir",
+    "email": "egilljo455@simnet.is",
+    "kyn": "kk"
+  }, {
+    "kt": "0608877189",
+    "nafn": "Gu\u00f0n\u00fd D\u00f3ra Sveinsd\u00f3ttir",
+    "braut": "Almenn n\u00e1msbraut Byggingat\u00e6knisk\u00f3lans",
+    "email": "gudnysv718@live.com",
+    "kyn": "kvk"
+  }, {
+    "kt": "1001819550",
+    "nafn": "R\u00f3sa Arnard\u00f3ttir",
+    "braut": "JOC - \u00dej\u00e1lfun \u00ed \u00feotuflugi",
+    "email": "rosaar955@gmail.com",
+    "kyn": "kvk"
+  }, {
+    "kt": "1802836289",
+    "nafn": "H\u00f3lmfr\u00ed\u00f0ur Fri\u00f0riksd\u00f3ttir",
+    "braut": "Rafeindavirkjun",
+    "email": "holmfridurfr628@outlook.com",
+    "kyn": "kvk"
+  }, {
+    "kt": "1207975628",
+    "nafn": "Valger\u00f0ur Birkirsd\u00f3ttir",
+    "braut": "Prentsm\u00ed\u00f0",
+    "email": "valgerdurbi562@live.com",
+    "kyn": "kvk"
+  }, {
+    "kt": "1410871171",
+    "nafn": "Hlynur Adamson",
+    "braut": "Grunnn\u00e1m bygg. og mannvirkja",
+    "email": "hlynurad117@live.com",
+    "kyn": "kk"
+  }, {
+    "kt": "0707922740",
+    "nafn": "P\u00e9tur G\u00edslason",
+    "braut": "S\u00e9rdeild, starfsn\u00e1msbrautir",
+    "email": "peturgi274@vodafone.is",
+    "kyn": "kk"
+  }, {
+    "kt": "1512808730",
+    "nafn": "Andrea Bj\u00f6rg Arnarsd\u00f3ttir",
+    "braut": "Gull- og silfursm\u00ed\u00f0i",
+    "email": "andreaar873@aol.com",
+    "kyn": "kvk"
+  }, {
+    "kt": "2409933828",
+    "nafn": "Jakob Gr\u00e9tarsson",
+    "braut": "Grunn\u00e1m rafi\u00f0na",
+    "email": "jakobgr382@live.com",
+    "kyn": "kk"
+  }, {
+    "kt": "3107932684",
+    "nafn": "Atli Elvar Hauksson",
+    "braut": "Almenn n\u00e1msbraut Raft\u00e6knisk\u00f3lans",
+    "email": "atliha268@hotmail.com",
+    "kyn": "kk"
+  }, {
+    "kt": "2004837370",
+    "nafn": "Telma Arnard\u00f3ttir",
+    "braut": "V\u00e9lt\u00e6knisk\u00f3linn - grunnn\u00e1m",
+    "email": "telmaar737@vodafone.is",
+    "kyn": "kvk"
+  }, {
+    "kt": "1310822626",
+    "nafn": "T\u00f3mas Eir\u00edksson",
+    "braut": "Almenn n\u00e1msbraut Raft\u00e6knisk\u00f3lans",
+    "email": "tomasei262@outlook.com",
+    "kyn": "kk"
+  }, {
+    "kt": "2409997692",
+    "nafn": "Hrafnhildur Baldursd\u00f3ttir",
+    "braut": "SA, SB, SC og SD Skipstj\u00f3rn",
+    "email": "hrafnhildurba769@hotmail.com",
+    "kyn": "kvk"
+  }, {
+    "kt": "2909982350",
+    "nafn": "Steinar Gr\u00e9tar Kjartansson",
+    "braut": "Grunn\u00e1m rafi\u00f0na",
+    "email": "steinarkj235@att.net",
+    "kyn": "kk"
+  }, {
+    "kt": "1203923164",
+    "nafn": "Au\u00f0ur \u00deorsteinsd\u00f3ttir",
+    "braut": "Veggf\u00f3\u00f0run og d\u00fakalagnir",
+    "email": "audur\u00feo316@simnet.is",
+    "kyn": "kvk"
+  }, {
+    "kt": "2205932091",
+    "nafn": "Bj\u00f6rn Sn\u00e6r S\u00e6varsson",
+    "braut": "Almenn n\u00e1msbraut Skipstj\u00f3rnarsk\u00f3lans",
+    "email": "bj\u00f6rnsa209@yahoo.com",
+    "kyn": "kk"
+  }, {
+    "kt": "0504847557",
+    "nafn": "Axel Gunnlaugsson",
+    "braut": "Atvinnuflugma\u00f0ur",
+    "email": "axelgu755@hotmail.com",
+    "kyn": "kk"
+  }, {
+    "kt": "2510971966",
+    "nafn": "Rannveig Ey\u00f0\u00f3rsd\u00f3ttir",
+    "braut": "Rafeindavirkjun",
+    "email": "rannveigey196@live.com",
+    "kyn": "kvk"
+  }, {
+    "kt": "1206831817",
+    "nafn": "Katla Anna Bjarkad\u00f3ttir",
+    "braut": "Almenn n\u00e1msb n\u00fdb\u00faa",
+    "email": "katlabj181@live.com",
+    "kyn": "kvk"
+  }, {
+    "kt": "1911805209",
+    "nafn": "Kristj\u00e1n Sveinsson",
+    "braut": "SA, SB, SC og SD Skipstj\u00f3rn",
+    "email": "kristjansv520@simnet.is",
+    "kyn": "kk"
+  }, {
+    "kt": "0212821497",
+    "nafn": "Emil\u00eda Lilja Reynisd\u00f3ttir",
+    "braut": "Almenn n\u00e1msbraut Byggingat\u00e6knisk\u00f3lans",
+    "email": "emiliare149@aol.com",
+    "kyn": "kvk"
+  }, {
+    "kt": "2601838513",
+    "nafn": "\u00deorsteinn Ragnarsson",
+    "braut": "Lj\u00f3smyndun",
+    "email": "thorsteinnra851@live.com",
+    "kyn": "kk"
+  }, {
+    "kt": "2807827262",
+    "nafn": "Hjalti Ragnar Viktorsson",
+    "braut": "Rennism\u00ed\u00f0abraut",
+    "email": "hjaltivi726@live.com",
+    "kyn": "kk"
+  }, {
+    "kt": "2007829212",
+    "nafn": "Hjalti Jakob Jakobsson",
+    "braut": "Flugvirkjan\u00e1m",
+    "email": "hjaltija921@live.com",
+    "kyn": "kk"
+  }, {
+    "kt": "1511829425",
+    "nafn": "Gu\u00f0j\u00f3n T\u00f3masson",
+    "braut": "H\u00e1rsnyrtideild",
+    "email": "gudjonto942@live.com",
+    "kyn": "kk"
+  }, {
+    "kt": "1304849710",
+    "nafn": "Katr\u00edn Sigr\u00ed\u00f0ur Tryggvad\u00f3ttir",
+    "braut": "Almenn n\u00e1msbraut AN UTN",
+    "email": "katrintr971@hotmail.com",
+    "kyn": "kvk"
+  }, {
+    "kt": "1011836044",
+    "nafn": "Edda Stefan\u00eda Snorrad\u00f3ttir",
+    "braut": "V\u00e9lstj\u00f3rn -  N\u00e1msstig A, B, C, D",
+    "email": "eddasn604@outlook.com",
+    "kyn": "kvk"
+  }, {
+    "kt": "1107955788",
+    "nafn": "Helga \u00de\u00f3ra Ingad\u00f3ttir",
+    "braut": "Brautir Meistarask\u00f3lans",
+    "email": "helgain578@simnet.is",
+    "kyn": "kvk"
+  }, {
+    "kt": "3010837025",
+    "nafn": "Ester Haraldsd\u00f3ttir",
+    "braut": "H\u00fasasm\u00ed\u00f0i",
+    "email": "esterha702@outlook.com",
+    "kyn": "kvk"
+  }, {
+    "kt": "2309859008",
+    "nafn": "P\u00e1ll Har\u00f0arson",
+    "braut": "Blindflugs\u00e1ritun",
+    "email": "pallha900@outlook.com",
+    "kyn": "kk"
+  }, {
+    "kt": "1405984830",
+    "nafn": "Rannveig Birkirsd\u00f3ttir",
+    "braut": "H\u00fasgagnasm\u00ed\u00f0i",
+    "email": "rannveigbi483@outlook.com",
+    "kyn": "kvk"
+  }, {
+    "kt": "2309956099",
+    "nafn": "Svava Linda Sigurj\u00f3nsd\u00f3ttir",
+    "braut": "Flugkennari",
+    "email": "svavasi609@outlook.com",
+    "kyn": "kvk"
+  }, {
+    "kt": "1501839590",
+    "nafn": "Birta R\u00e1n J\u00f3nsd\u00f3ttir",
+    "braut": "Janus endurh\u00e6fing",
+    "email": "birtajo959@simnet.is",
+    "kyn": "kvk"
+  }, {
+    "kt": "1712916622",
+    "nafn": "T\u00f3mas \u00de\u00f3r\u00f0arson",
+    "braut": "Gull- og silfursm\u00ed\u00f0i",
+    "email": "tomas\u00feo662@vodafone.is",
+    "kyn": "kk"
+  }, {
+    "kt": "2001909595",
+    "nafn": "J\u00f3n Freyr Dan\u00edelsson",
+    "braut": "Janus endurh\u00e6fing",
+    "email": "jonda959@onemail.com",
+    "kyn": "kk"
+  }, {
+    "kt": "1211807847",
+    "nafn": "Mikkael Dagur Fri\u00f0riksson",
+    "braut": "Grunn\u00e1m rafi\u00f0na \u2013 hra\u00f0fer\u00f0",
+    "email": "mikkaelfr784@live.com",
+    "kyn": "kk"
+  }, {
+    "kt": "1304862889",
+    "nafn": "Andri Hafsteinsson",
+    "braut": "Almenn n\u00e1msbraut Byggingat\u00e6knisk\u00f3lans",
+    "email": "andriha288@live.com",
+    "kyn": "kk"
+  }, {
+    "kt": "1304877814",
+    "nafn": "J\u00f3na Steinarsd\u00f3ttir",
+    "braut": "Almenn n\u00e1msb n\u00fdb\u00faa",
+    "email": "jonast781@gmail.com",
+    "kyn": "kvk"
+  }, {
+    "kt": "2810922173",
+    "nafn": "Andrea Mar\u00eda Hlynsd\u00f3ttir",
+    "braut": "Grunn\u00e1m rafi\u00f0na \u2013 hra\u00f0fer\u00f0",
+    "email": "andreahl217@gmail.com",
+    "kyn": "kvk"
+  }, {
+    "kt": "1903994427",
+    "nafn": "An\u00edta Laufey Alexandersd\u00f3ttir",
+    "braut": "H\u00fasgagnasm\u00ed\u00f0i",
+    "email": "anitaal442@hotmail.com",
+    "kyn": "kvk"
+  }, {
+    "kt": "1612974583",
+    "nafn": "Brynja R\u00fanarsd\u00f3ttir",
+    "braut": "Rafeindavirkjun",
+    "email": "brynjaru458@hotmail.com",
+    "kyn": "kvk"
+  }, {
+    "kt": "2602938781",
+    "nafn": "Edda Tryggvad\u00f3ttir",
+    "braut": "Dreifn\u00e1m og n\u00e1m me\u00f0 vinnu",
+    "email": "eddatr878@hotmail.com",
+    "kyn": "kvk"
+  }, {
+    "kt": "0803915561",
+    "nafn": "Snorri Hlynsson",
+    "braut": "S\u00e9rdeild, starfsn\u00e1msbrautir",
+    "email": "snorrihl556@aol.com",
+    "kyn": "kk"
+  }, {
+    "kt": "0204934435",
+    "nafn": "An\u00edta Hafsteinsd\u00f3ttir",
+    "braut": "Flugkennari",
+    "email": "anitaha443@vodafone.is",
+    "kyn": "kvk"
+  }, {
+    "kt": "1802812305",
+    "nafn": "Hj\u00f6rd\u00eds Steinunn Steinarsd\u00f3ttir",
+    "braut": "Veggf\u00f3\u00f0run og d\u00fakalagnir",
+    "email": "hj\u00f6rdisst230@aol.com",
+    "kyn": "kvk"
+  }, {
+    "kt": "2509913551",
+    "nafn": "Emil\u00eda D\u00f3ra Tryggvad\u00f3ttir",
+    "braut": "Vefsk\u00f3linn",
+    "email": "emiliatr355@live.com",
+    "kyn": "kvk"
+  }, {
+    "kt": "1410975457",
+    "nafn": "An\u00edta Sif Hauksd\u00f3ttir",
+    "braut": "H\u00fasasm\u00ed\u00f0i",
+    "email": "anitaha545@hotmail.com",
+    "kyn": "kvk"
+  }, {
+    "kt": "2005995189",
+    "nafn": "Bjarki Fri\u00f0riksson",
+    "braut": "Lj\u00f3smyndun",
+    "email": "bjarkifr518@onemail.com",
+    "kyn": "kk"
+  }, {
+    "kt": "0503999021",
+    "nafn": "Sigr\u00ed\u00f0ur Bjarnad\u00f3ttir",
+    "braut": "V\u00e9lvirkjabraut",
+    "email": "sigridurbj902@simnet.is",
+    "kyn": "kvk"
+  }, {
+    "kt": "2103941539",
+    "nafn": "Unnur Emilsd\u00f3ttir",
+    "braut": "Dreifn\u00e1m og n\u00e1m me\u00f0 vinnu",
+    "email": "unnurem153@live.com",
+    "kyn": "kvk"
+  }, {
+    "kt": "1609956830",
+    "nafn": "H\u00f6r\u00f0ur Ingvi Arnarsson",
+    "braut": "Veggf\u00f3\u00f0run og d\u00fakalagnir",
+    "email": "h\u00f6rdurar683@yahoo.com",
+    "kyn": "kk"
+  }, {
+    "kt": "0110915652",
+    "nafn": "Hafsteinn S\u00e6var \u00d3lafsson",
+    "braut": "S\u00e9rdeild, starfsn\u00e1msbrautir",
+    "email": "hafsteinn\u00f3l565@live.com",
+    "kyn": "kk"
+  }, {
+    "kt": "1303994183",
+    "nafn": "Helgi \u00d3marsson",
+    "braut": "P\u00edpulagnir",
+    "email": "helgi\u00f3m418@live.com",
+    "kyn": "kk"
+  }, {
+    "kt": "0403964372",
+    "nafn": "Ragnhildur Mar\u00edn Hjaltad\u00f3ttir",
+    "braut": "Grunnn\u00e1msk. flugfr.og flug\u00fej\u00f3na",
+    "email": "ragnhildurhj437@outlook.com",
+    "kyn": "kvk"
+  }, {
+    "kt": "0209916477",
+    "nafn": "Telma Elvarsd\u00f3ttir",
+    "braut": "H\u00fasgagnasm\u00ed\u00f0i",
+    "email": "telmael647@outlook.com",
+    "kyn": "kvk"
+  }, {
+    "kt": "0204925566",
+    "nafn": "Agnes S\u00f3l Har\u00f0ard\u00f3ttir",
+    "braut": "Almenn n\u00e1msbraut V\u00e9lt\u00e6knisk\u00f3lans",
+    "email": "agnesha556@live.com",
+    "kyn": "kvk"
+  }, {
+    "kt": "2009995391",
+    "nafn": "Magn\u00fas Steinn G\u00edslason",
+    "braut": "Einkaflugmannsn\u00e1m",
+    "email": "magnusgi539@yahoo.com",
+    "kyn": "kk"
+  }, {
+    "kt": "0912843904",
+    "nafn": "J\u00fal\u00eda Laufey \u00d3marsd\u00f3ttir",
+    "braut": "Grunn\u00e1m rafi\u00f0na \u2013 hra\u00f0fer\u00f0",
+    "email": "julia\u00f3m390@onemail.com",
+    "kyn": "kvk"
+  }, {
+    "kt": "1912925335",
+    "nafn": "Vigd\u00eds Lind Gr\u00e9tarsd\u00f3ttir",
+    "braut": "V\u00e9lstj\u00f3rn -  N\u00e1msstig A, B, C, D",
+    "email": "vigdisgr533@live.com",
+    "kyn": "kvk"
+  }, {
+    "kt": "2111952030",
+    "nafn": "Hlynur R\u00fanarsson",
+    "braut": "Grunn\u00e1m rafi\u00f0na \u2013 hra\u00f0fer\u00f0",
+    "email": "hlynurru203@aol.com",
+    "kyn": "kk"
+  }, {
+    "kt": "2806801177",
+    "nafn": "Arn\u00f3r Birgisson",
+    "braut": "Flugkennari",
+    "email": "arnorbi117@yahoo.com",
+    "kyn": "kk"
+  }, {
+    "kt": "2003954355",
+    "nafn": "Agnes Eva Dagursd\u00f3ttir",
+    "braut": "Dreifn\u00e1m og n\u00e1m me\u00f0 vinnu",
+    "email": "agnesda435@simnet.is",
+    "kyn": "kvk"
+  }, {
+    "kt": "1511844005",
+    "nafn": "Adam Dagur Ragnarsson",
+    "braut": "Grunn\u00e1m rafi\u00f0na",
+    "email": "adamra400@yahoo.com",
+    "kyn": "kk"
+  }, {
+    "kt": "0510828527",
+    "nafn": "\u00d6rvar Tryggvason",
+    "braut": "Blindflugs\u00e1ritun",
+    "email": "\u00f6rvartr852@hotmail.com",
+    "kyn": "kk"
+  }, {
+    "kt": "0702926289",
+    "nafn": "Ragnhei\u00f0ur \u00d3sk Eir\u00edksd\u00f3ttir",
+    "braut": "Grunn\u00e1m rafi\u00f0na \u2013 hra\u00f0fer\u00f0",
+    "email": "ragnheidurei628@simnet.is",
+    "kyn": "kvk"
+  }, {
+    "kt": "0308881544",
+    "nafn": "\u00d3l\u00f6f Gu\u00f0j\u00f3nsd\u00f3ttir",
+    "braut": "\u00c1hafnarsamstarf MCC",
+    "email": "ol\u00f6fgu154@live.com",
+    "kyn": "kvk"
+  }, {
+    "kt": "1102856869",
+    "nafn": "Snorri Le\u00f3 S\u00e6varsson",
+    "braut": "Almennt n\u00e1m",
+    "email": "snorrisa686@gmail.com",
+    "kyn": "kk"
+  }, {
+    "kt": "0303965085",
+    "nafn": "Ragnar Jakob Hlynsson",
+    "braut": "SA, SB, SC og SD Skipstj\u00f3rn",
+    "email": "ragnarhl508@simnet.is",
+    "kyn": "kk"
+  }, {
+    "kt": "0103855006",
+    "nafn": "\u00de\u00f3rd\u00eds Andrad\u00f3ttir",
+    "braut": "T\u00f6lvubraut",
+    "email": "thordisan500@yahoo.com",
+    "kyn": "kvk"
+  }, {
+    "kt": "0804869830",
+    "nafn": "Au\u00f0ur \u00d3sk \u00c1sgeirsd\u00f3ttir",
+    "braut": "Almennt n\u00e1m",
+    "email": "audur\u00e1s983@gmail.com",
+    "kyn": "kvk"
+  }, {
+    "kt": "1305868047",
+    "nafn": "Marta Mar\u00eda \u00d3marsd\u00f3ttir",
+    "braut": "Almenn n\u00e1msb n\u00fdb\u00faa",
+    "email": "marta\u00f3m804@gmail.com",
+    "kyn": "kvk"
+  }, {
+    "kt": "1303966367",
+    "nafn": "Ragnhei\u00f0ur \u00deorsteinsd\u00f3ttir",
+    "braut": "Veggf\u00f3\u00f0run og d\u00fakalagnir",
+    "email": "ragnheidur\u00feo636@live.com",
+    "kyn": "kvk"
+  }, {
+    "kt": "1209835811",
+    "nafn": "\u00de\u00f3rd\u00eds Valger\u00f0ur \u00deorsteinsd\u00f3ttir",
+    "braut": "Grunnn\u00e1m bygg. og mannvirkja",
+    "email": "thordis\u00feo581@hotmail.com",
+    "kyn": "kvk"
+  }, {
+    "kt": "0101855399",
+    "nafn": "J\u00f3n Steinn Ingason",
+    "braut": "T\u00f6lvubraut",
+    "email": "jonin539@vodafone.is",
+    "kyn": "kk"
+  }, {
+    "kt": "2212948623",
+    "nafn": "Kristj\u00e1n R\u00fanarsson",
+    "braut": "Vefsk\u00f3linn",
+    "email": "kristjanru862@hotmail.com",
+    "kyn": "kk"
+  }, {
+    "kt": "2504885984",
+    "nafn": "Adam Dagur Gu\u00f0j\u00f3nsson",
+    "braut": "Vefsk\u00f3linn",
+    "email": "adamgu598@live.com",
+    "kyn": "kk"
+  }, {
+    "kt": "1005999887",
+    "nafn": "Birgir Bragi P\u00e9tursson",
+    "braut": "Almenn n\u00e1msb n\u00fdb\u00faa",
+    "email": "birgirpe988@live.com",
+    "kyn": "kk"
+  }, {
+    "kt": "1904824352",
+    "nafn": "Gr\u00e9tar Gunnar G\u00edslason",
+    "braut": "H\u00fasgagnasm\u00ed\u00f0i",
+    "email": "gretargi435@live.com",
+    "kyn": "kk"
+  }, {
+    "kt": "2310895607",
+    "nafn": "El\u00edsabet R\u00f3sa Gunnlaugsd\u00f3ttir",
+    "braut": "V\u00e9lvirkjabraut",
+    "email": "elisabetgu560@yahoo.com",
+    "kyn": "kvk"
+  }, {
+    "kt": "2407862985",
+    "nafn": "\u00c1sd\u00eds \u00c1sgeirsd\u00f3ttir",
+    "braut": "T\u00e6kniteiknun",
+    "email": "asdis\u00e1s298@simnet.is",
+    "kyn": "kvk"
+  }, {
+    "kt": "1302964424",
+    "nafn": "Rakel Bjarnad\u00f3ttir",
+    "braut": "Flugkennari",
+    "email": "rakelbj442@vodafone.is",
+    "kyn": "kvk"
+  }, {
+    "kt": "1904846101",
+    "nafn": "Bjarni Gu\u00f0j\u00f3nsson",
+    "braut": "Grunn\u00e1m rafi\u00f0na",
+    "email": "bjarnigu610@live.com",
+    "kyn": "kk"
+  }, {
+    "kt": "1411981351",
+    "nafn": "Hafd\u00eds Sindrad\u00f3ttir",
+    "braut": "H\u00e1rsnyrtideild",
+    "email": "hafdissi135@outlook.com",
+    "kyn": "kvk"
+  }, {
+    "kt": "1004852977",
+    "nafn": "Alexander Ingi Sigur\u00f0sson",
+    "braut": "Vefsk\u00f3linn",
+    "email": "alexandersi297@hotmail.com",
+    "kyn": "kk"
+  }, {
+    "kt": "2208933657",
+    "nafn": "Katr\u00edn Eva Arnarsd\u00f3ttir",
+    "braut": "T\u00f6lvubraut",
+    "email": "katrinar365@onemail.com",
+    "kyn": "kvk"
+  }, {
+    "kt": "1707893395",
+    "nafn": "Marta Haraldsd\u00f3ttir",
+    "braut": "Fatat\u00e6knir",
+    "email": "martaha339@simnet.is",
+    "kyn": "kvk"
+  }, {
+    "kt": "1403887331",
+    "nafn": "Hulda \u00de\u00f3ra Gr\u00e9tarsd\u00f3ttir",
+    "braut": "Rafeindavirkjun",
+    "email": "huldagr733@gmail.com",
+    "kyn": "kvk"
+  }, {
+    "kt": "1009897961",
+    "nafn": "Ingibj\u00f6rg Bj\u00f6rnsd\u00f3ttir",
+    "braut": "Almenn n\u00e1msbraut AN UTN",
+    "email": "ingibj\u00f6rgbj796@live.com",
+    "kyn": "kvk"
+  }, {
+    "kt": "1802884081",
+    "nafn": "A\u00f0alhei\u00f0ur Gu\u00f0mundsd\u00f3ttir",
+    "braut": "Gull- og silfursm\u00ed\u00f0i",
+    "email": "adalheidurgu408@vodafone.is",
+    "kyn": "kvk"
+  }, {
+    "kt": "0308882806",
+    "nafn": "Vigd\u00eds Bj\u00f6rk Benediktsd\u00f3ttir",
+    "braut": "V\u00e9lvirkjabraut",
+    "email": "vigdisbe280@simnet.is",
+    "kyn": "kvk"
+  }, {
+    "kt": "0202823235",
+    "nafn": "Kristj\u00e1n Har\u00f0arson",
+    "braut": "JOC - \u00dej\u00e1lfun \u00ed \u00feotuflugi",
+    "email": "kristjanha323@live.com",
+    "kyn": "kk"
+  }, {
+    "kt": "2904819867",
+    "nafn": "Gu\u00f0ni \u00c6gir \u00de\u00f3rarinson",
+    "braut": "H\u00f6nnunar- og n\u00fdsk\u00f6punarbraut",
+    "email": "gudni\u00feo986@yahoo.com",
+    "kyn": "kk"
+  }, {
+    "kt": "0209853735",
+    "nafn": "Hulda Fj\u00f3la Gu\u00f0mundsd\u00f3ttir",
+    "braut": "JOC - \u00dej\u00e1lfun \u00ed \u00feotuflugi",
+    "email": "huldagu373@vodafone.is",
+    "kyn": "kvk"
+  }, {
+    "kt": "0106886186",
+    "nafn": "Gu\u00f0mundur Hafsteinsson",
+    "braut": "Prentsm\u00ed\u00f0",
+    "email": "gudmundurha618@att.net",
+    "kyn": "kk"
+  }, {
+    "kt": "2312986663",
+    "nafn": "R\u00f3sa \u00c1rnad\u00f3ttir",
+    "braut": "S\u00e9rdeild, starfsn\u00e1msbrautir",
+    "email": "rosa\u00e1r666@live.com",
+    "kyn": "kvk"
+  }, {
+    "kt": "0903905188",
+    "nafn": "Vilhj\u00e1lmur Magn\u00fas Gu\u00f0nason",
+    "braut": "Almenn n\u00e1msb n\u00fdb\u00faa",
+    "email": "vilhjalmurgu518@outlook.com",
+    "kyn": "kk"
+  }, {
+    "kt": "0511875389",
+    "nafn": "Gu\u00f0j\u00f3n R\u00fanar Ingvarsson",
+    "braut": "T\u00e6kniteiknun",
+    "email": "gudjonin538@outlook.com",
+    "kyn": "kk"
+  }, {
+    "kt": "1311927118",
+    "nafn": "Birna Brynd\u00eds Ing\u00f3lfsd\u00f3ttir",
+    "braut": "Almenn n\u00e1msbraut AN UTN",
+    "email": "birnain711@onemail.com",
+    "kyn": "kvk"
+  }, {
+    "kt": "0603869989",
+    "nafn": "J\u00f3n Kristinn Ingvarsson",
+    "braut": "V\u00e9lstj\u00f3rn -  N\u00e1msstig A, B, C, D",
+    "email": "jonin998@yahoo.com",
+    "kyn": "kk"
+  }, {
+    "kt": "2203922601",
+    "nafn": "Arna Bj\u00f6rgvinsd\u00f3ttir",
+    "braut": "Gull- og silfursm\u00ed\u00f0i",
+    "email": "arnabj260@live.com",
+    "kyn": "kvk"
+  }, {
+    "kt": "2009987375",
+    "nafn": "Ey\u00f0\u00f3r H\u00e1konsson",
+    "braut": "Margmi\u00f0lunarsk\u00f3linn",
+    "email": "eydorha737@outlook.com",
+    "kyn": "kk"
+  }, {
+    "kt": "1103979175",
+    "nafn": "Ragnhildur Bj\u00f6rgvinsd\u00f3ttir",
+    "braut": "Janus endurh\u00e6fing",
+    "email": "ragnhildurbj917@aol.com",
+    "kyn": "kvk"
+  }, {
+    "kt": "1302978163",
+    "nafn": "\u00c1slaug Sverrirsd\u00f3ttir",
+    "braut": "H\u00e1rsnyrtideild",
+    "email": "aslaugsv816@att.net",
+    "kyn": "kvk"
+  }, {
+    "kt": "2211831366",
+    "nafn": "Katla Gunnlaugsd\u00f3ttir",
+    "braut": "Blindflugs\u00e1ritun",
+    "email": "katlagu136@hotmail.com",
+    "kyn": "kvk"
+  }, {
+    "kt": "0611802541",
+    "nafn": "Atli \u00de\u00f3r\u00f0arson",
+    "braut": "Blindflugs\u00e1ritun",
+    "email": "atli\u00feo254@yahoo.com",
+    "kyn": "kk"
+  }, {
+    "kt": "1506972686",
+    "nafn": "El\u00edn Mar\u00eda Sigurj\u00f3nsd\u00f3ttir",
+    "braut": "Almenn n\u00e1msbraut Handverkssk\u00f3lans",
+    "email": "elinsi268@outlook.com",
+    "kyn": "kvk"
+  }, {
+    "kt": "2011821333",
+    "nafn": "Birkir Halld\u00f3r J\u00f3hannesson",
+    "braut": "T\u00e6kniteiknun",
+    "email": "birkirjo133@outlook.com",
+    "kyn": "kk"
+  }, {
+    "kt": "1805868382",
+    "nafn": "Sara Lind \u00c1rnad\u00f3ttir",
+    "braut": "V\u00e9lvirkjabraut",
+    "email": "sara\u00e1r838@gmail.com",
+    "kyn": "kvk"
+  }, {
+    "kt": "2606936990",
+    "nafn": "K\u00e1ri Sveinsson",
+    "braut": "Grunn\u00e1m rafi\u00f0na",
+    "email": "karisv699@outlook.com",
+    "kyn": "kk"
+  }, {
+    "kt": "1901846261",
+    "nafn": "Helga Kristj\u00e1nsd\u00f3ttir",
+    "braut": "Uppl\u00fdsinga- og fj\u00f6lmi\u00f0labraut",
+    "email": "helgakr626@outlook.com",
+    "kyn": "kvk"
+  }, {
+    "kt": "1208879772",
+    "nafn": "Hj\u00f6rtur Reynisson",
+    "braut": "H\u00fasgagnasm\u00ed\u00f0i",
+    "email": "hj\u00f6rturre977@yahoo.com",
+    "kyn": "kk"
+  }, {
+    "kt": "2204942284",
+    "nafn": "R\u00fanar Krist\u00f3fersson",
+    "braut": "Janus endurh\u00e6fing",
+    "email": "runarkr228@vodafone.is",
+    "kyn": "kk"
+  }, {
+    "kt": "1905815379",
+    "nafn": "Valdimar Eir\u00edksson",
+    "braut": "JOC - \u00dej\u00e1lfun \u00ed \u00feotuflugi",
+    "email": "valdimarei537@hotmail.com",
+    "kyn": "kk"
+  }, {
+    "kt": "0510819207",
+    "nafn": "Edda \u00ddr \u00d3marsd\u00f3ttir",
+    "braut": "Almenn n\u00e1msb n\u00fdb\u00faa",
+    "email": "edda\u00f3m920@gmail.com",
+    "kyn": "kvk"
+  }, {
+    "kt": "1411885504",
+    "nafn": "H\u00e1kon Bjarni Eir\u00edksson",
+    "braut": "H\u00fasasm\u00ed\u00f0i",
+    "email": "hakonei550@outlook.com",
+    "kyn": "kk"
+  }, {
+    "kt": "2205993011",
+    "nafn": "A\u00f0alhei\u00f0ur \u00c1rnad\u00f3ttir",
+    "braut": "Flugkennari",
+    "email": "adalheidur\u00e1r301@onemail.com",
+    "kyn": "kvk"
+  }, {
+    "kt": "2203899685",
+    "nafn": "Brynja Halld\u00f3ra Gunnlaugsd\u00f3ttir",
+    "braut": "Uppl\u00fdsinga- og fj\u00f6lmi\u00f0labraut",
+    "email": "brynjagu968@aol.com",
+    "kyn": "kvk"
+  }, {
+    "kt": "1407978661",
+    "nafn": "Ingvar Karlsson",
+    "braut": "Einkaflugmannsn\u00e1m",
+    "email": "ingvarka866@hotmail.com",
+    "kyn": "kk"
+  }, {
+    "kt": "1512899272",
+    "nafn": "Atli Snorrason",
+    "braut": "Lj\u00f3smyndun",
+    "email": "atlisn927@live.com",
+    "kyn": "kk"
+  }, {
+    "kt": "1603975764",
+    "nafn": "Sandra D\u00f3ra P\u00e9tursd\u00f3ttir",
+    "braut": "JOC - \u00dej\u00e1lfun \u00ed \u00feotuflugi",
+    "email": "sandrape576@vodafone.is",
+    "kyn": "kvk"
+  }, {
+    "kt": "2808881920",
+    "nafn": "Sunna Sj\u00f6fn Sigur\u00f0sd\u00f3ttir",
+    "braut": "Grunn\u00e1m rafi\u00f0na \u2013 hra\u00f0fer\u00f0",
+    "email": "sunnasi192@gmail.com",
+    "kyn": "kvk"
+  }, {
+    "kt": "1209927064",
+    "nafn": "Linda \u00c1sa Dav\u00ed\u00f0sd\u00f3ttir",
+    "braut": "Fatat\u00e6knir",
+    "email": "lindada706@live.com",
+    "kyn": "kvk"
+  }, {
+    "kt": "1111923501",
+    "nafn": "Steinar \u00c1rni H\u00e1konsson",
+    "braut": "V\u00e9lvirkjabraut",
+    "email": "steinarha350@gmail.com",
+    "kyn": "kk"
+  }, {
+    "kt": "1112906037",
+    "nafn": "\u00de\u00f3rd\u00eds \u00cdris Arad\u00f3ttir",
+    "braut": "V\u00e9lt\u00e6knisk\u00f3linn - grunnn\u00e1m",
+    "email": "thordisar603@att.net",
+    "kyn": "kvk"
+  }, {
+    "kt": "0410933523",
+    "nafn": "Kjartan \u00c1sgeir \u00d3marsson",
+    "braut": "Almenn n\u00e1msbraut Handverkssk\u00f3lans",
+    "email": "kjartan\u00f3m352@hotmail.com",
+    "kyn": "kk"
+  }, {
+    "kt": "0602901549",
+    "nafn": "Halld\u00f3r Sveinsson",
+    "braut": "St\u00e1lsm\u00ed\u00f0abraut",
+    "email": "halldorsv154@outlook.com",
+    "kyn": "kk"
+  }, {
+    "kt": "1201962856",
+    "nafn": "A\u00f0alhei\u00f0ur Elvarsd\u00f3ttir",
+    "braut": "P\u00edpulagnir",
+    "email": "adalheidurel285@live.com",
+    "kyn": "kvk"
+  }, {
+    "kt": "2008854287",
+    "nafn": "Helena Gu\u00f0bj\u00f6rg Magn\u00fasd\u00f3ttir",
+    "braut": "V\u00e9lvirkjabraut",
+    "email": "helenama428@outlook.com",
+    "kyn": "kvk"
+  }, {
+    "kt": "1507852611",
+    "nafn": "\u00cdris Sigur\u00f0sd\u00f3ttir",
+    "braut": "H\u00fasasm\u00ed\u00f0i",
+    "email": "irissi261@live.com",
+    "kyn": "kvk"
+  }, {
+    "kt": "1911971647",
+    "nafn": "Sara Margr\u00e9t \u00c1sgeirsd\u00f3ttir",
+    "braut": "Grunnn\u00e1m bygg. og mannvirkja",
+    "email": "sara\u00e1s164@live.com",
+    "kyn": "kvk"
+  }, {
+    "kt": "1001924956",
+    "nafn": "S\u00f3ley Hei\u00f0a Axelsd\u00f3ttir",
+    "braut": "Brautir Meistarask\u00f3lans",
+    "email": "soleyax495@outlook.com",
+    "kyn": "kvk"
+  }, {
+    "kt": "2912956428",
+    "nafn": "Hjalti Ingvi \u00d3marsson",
+    "braut": "Flugvirkjan\u00e1m",
+    "email": "hjalti\u00f3m642@live.com",
+    "kyn": "kk"
+  }, {
+    "kt": "2301934558",
+    "nafn": "Katla Bj\u00f6rnsd\u00f3ttir",
+    "braut": "St\u00e1lsm\u00ed\u00f0abraut",
+    "email": "katlabj455@hotmail.com",
+    "kyn": "kvk"
+  }, {
+    "kt": "1110834222",
+    "nafn": "Sigur\u00f0ur Gu\u00f0j\u00f3nsson",
+    "braut": "SA, SB, SC og SD Skipstj\u00f3rn",
+    "email": "sigurdurgu422@vodafone.is",
+    "kyn": "kk"
+  }, {
+    "kt": "1407853914",
+    "nafn": "Sigurbj\u00f6rg D\u00f3ra Egilsd\u00f3ttir",
+    "braut": "Prentun",
+    "email": "sigurbj\u00f6rgeg391@vodafone.is",
+    "kyn": "kvk"
+  }, {
+    "kt": "0805933938",
+    "nafn": "Erla Huld Kristinsd\u00f3ttir",
+    "braut": "Almenn n\u00e1msbraut Byggingat\u00e6knisk\u00f3lans",
+    "email": "erlakr393@vodafone.is",
+    "kyn": "kvk"
+  }, {
+    "kt": "3006931736",
+    "nafn": "Emil Ragnarsson",
+    "braut": "Fatai\u00f0n",
+    "email": "emilra173@hotmail.com",
+    "kyn": "kk"
+  }, {
+    "kt": "1008858805",
+    "nafn": "L\u00e1ra Gu\u00f0j\u00f3nsd\u00f3ttir",
+    "braut": "Fatat\u00e6knir",
+    "email": "laragu880@live.com",
+    "kyn": "kvk"
+  }, {
+    "kt": "0203961158",
+    "nafn": "Gu\u00f0ni Aronsson",
+    "braut": "Janus endurh\u00e6fing",
+    "email": "gudniar115@simnet.is",
+    "kyn": "kk"
+  }, {
+    "kt": "2011879986",
+    "nafn": "Steinar \u00c6gir Gu\u00f0nason",
+    "braut": "Grunn\u00e1m rafi\u00f0na",
+    "email": "steinargu998@hotmail.com",
+    "kyn": "kk"
+  }, {
+    "kt": "1504841517",
+    "nafn": "Gu\u00f0mundur Har\u00f0arson",
+    "braut": "Flugkennari",
+    "email": "gudmundurha151@hotmail.com",
+    "kyn": "kk"
+  }, {
+    "kt": "3112884732",
+    "nafn": "Sandra Hauksd\u00f3ttir",
+    "braut": "Grunnn\u00e1msk. flugfr.og flug\u00fej\u00f3na",
+    "email": "sandraha473@vodafone.is",
+    "kyn": "kvk"
+  }, {
+    "kt": "0610948295",
+    "nafn": "Inga J\u00f3nsd\u00f3ttir",
+    "braut": "Fatai\u00f0n",
+    "email": "ingajo829@outlook.com",
+    "kyn": "kvk"
+  }, {
+    "kt": "1210805363",
+    "nafn": "Erla \u00de\u00f3ra J\u00f3nasd\u00f3ttir",
+    "braut": "\u00c1hafnarsamstarf MCC",
+    "email": "erlajo536@hotmail.com",
+    "kyn": "kvk"
+  }, {
+    "kt": "2008824089",
+    "nafn": "Gu\u00f0ni P\u00e1ll Ing\u00f3lfsson",
+    "braut": "Flugkennari",
+    "email": "gudniin408@outlook.com",
+    "kyn": "kk"
+  }, {
+    "kt": "1211832093",
+    "nafn": "Matth\u00edas Hlynsson",
+    "braut": "Flugkennari",
+    "email": "matthiashl209@vodafone.is",
+    "kyn": "kk"
+  }, {
+    "kt": "0304923881",
+    "nafn": "El\u00edn S\u00f3lveig J\u00f3hannesd\u00f3ttir",
+    "braut": "Prentsm\u00ed\u00f0",
+    "email": "elinjo388@vodafone.is",
+    "kyn": "kvk"
+  }, {
+    "kt": "2710911946",
+    "nafn": "Sigr\u00fan Tryggvad\u00f3ttir",
+    "braut": "JOC - \u00dej\u00e1lfun \u00ed \u00feotuflugi",
+    "email": "sigruntr194@live.com",
+    "kyn": "kvk"
+  }, {
+    "kt": "0705997170",
+    "nafn": "Hrefna Fj\u00f3la Arn\u00f3rsd\u00f3ttir",
+    "braut": "Blindflugs\u00e1ritun",
+    "email": "hrefnaar717@live.com",
+    "kyn": "kvk"
+  }, {
+    "kt": "2807845081",
+    "nafn": "P\u00e1ll Bjarni Arnarsson",
+    "braut": "Vefsk\u00f3linn",
+    "email": "pallar508@hotmail.com",
+    "kyn": "kk"
+  }, {
+    "kt": "1505946226",
+    "nafn": "Eva Sveinsd\u00f3ttir",
+    "braut": "Grunnn\u00e1msk. flugfr.og flug\u00fej\u00f3na",
+    "email": "evasv622@outlook.com",
+    "kyn": "kvk"
+  }, {
+    "kt": "3110925501",
+    "nafn": "Inga Hr\u00f6nn J\u00f3hannesd\u00f3ttir",
+    "braut": "Dreifn\u00e1m og n\u00e1m me\u00f0 vinnu",
+    "email": "ingajo550@outlook.com",
+    "kyn": "kvk"
+  }, {
+    "kt": "1711911297",
+    "nafn": "Sigurbj\u00f6rg Eir Arad\u00f3ttir",
+    "braut": "T\u00f6lvubraut",
+    "email": "sigurbj\u00f6rgar129@outlook.com",
+    "kyn": "kvk"
+  }, {
+    "kt": "1810837150",
+    "nafn": "Eva J\u00f3hanna \u00deorsteinsd\u00f3ttir",
+    "braut": "Almenn n\u00e1msbraut Raft\u00e6knisk\u00f3lans",
+    "email": "eva\u00feo715@live.com",
+    "kyn": "kvk"
+  }, {
+    "kt": "2912903826",
+    "nafn": "Dan\u00edel Gauti Ingason",
+    "braut": "Almenn n\u00e1msbraut Skipstj\u00f3rnarsk\u00f3lans",
+    "email": "danielin382@hotmail.com",
+    "kyn": "kk"
+  }, {
+    "kt": "2202917364",
+    "nafn": "Alexandra Bj\u00f6rnsd\u00f3ttir",
+    "braut": "Grunn\u00e1m rafi\u00f0na \u2013 hra\u00f0fer\u00f0",
+    "email": "alexandrabj736@outlook.com",
+    "kyn": "kvk"
+  }, {
+    "kt": "0904903457",
+    "nafn": "Mikkael Bjarnason",
+    "braut": "Janus endurh\u00e6fing",
+    "email": "mikkaelbj345@simnet.is",
+    "kyn": "kk"
+  }, {
+    "kt": "2605932974",
+    "nafn": "A\u00f0alhei\u00f0ur Gunnlaugsd\u00f3ttir",
+    "braut": "H\u00e1rsnyrtideild",
+    "email": "adalheidurgu297@vodafone.is",
+    "kyn": "kvk"
+  }, {
+    "kt": "2808896762",
+    "nafn": "El\u00edn Elvarsd\u00f3ttir",
+    "braut": "Prentsm\u00ed\u00f0",
+    "email": "elinel676@outlook.com",
+    "kyn": "kvk"
+  }, {
+    "kt": "0510994776",
+    "nafn": "Emil J\u00f3hannes \u00c1g\u00fastsson",
+    "braut": "Rafvirkjun",
+    "email": "emil\u00e1g477@onemail.com",
+    "kyn": "kk"
+  }, {
+    "kt": "1105878833",
+    "nafn": "Steinar Dav\u00ed\u00f0sson",
+    "braut": "Flugvirkjan\u00e1m",
+    "email": "steinarda883@outlook.com",
+    "kyn": "kk"
+  }, {
+    "kt": "2308935052",
+    "nafn": "Birgir Logi Bj\u00f6rnsson",
+    "braut": "Almenn n\u00e1msbraut Raft\u00e6knisk\u00f3lans",
+    "email": "birgirbj505@live.com",
+    "kyn": "kk"
+  }, {
+    "kt": "2802805417",
+    "nafn": "Elsa Hlynsd\u00f3ttir",
+    "braut": "Grunnn\u00e1m bygg. og mannvirkja",
+    "email": "elsahl541@hotmail.com",
+    "kyn": "kvk"
+  }, {
+    "kt": "0307893783",
+    "nafn": "G\u00edsli El\u00ed Baldursson",
+    "braut": "Almenn n\u00e1msbraut Skipstj\u00f3rnarsk\u00f3lans",
+    "email": "gisliba378@live.com",
+    "kyn": "kk"
+  }, {
+    "kt": "0912883058",
+    "nafn": "Dagn\u00fd \u00deorsteinsd\u00f3ttir",
+    "braut": "Almenn n\u00e1msbraut Raft\u00e6knisk\u00f3lans",
+    "email": "dagny\u00feo305@hotmail.com",
+    "kyn": "kvk"
+  }, {
+    "kt": "1802809667",
+    "nafn": "Fanney \u00de\u00f3r\u00f0ard\u00f3ttir",
+    "braut": "Almenn n\u00e1msb n\u00fdb\u00faa",
+    "email": "fanney\u00feo966@vodafone.is",
+    "kyn": "kvk"
+  }, {
+    "kt": "2112806175",
+    "nafn": "Dav\u00ed\u00f0 Har\u00f0arson",
+    "braut": "Atvinnuflugma\u00f0ur",
+    "email": "davidha617@vodafone.is",
+    "kyn": "kk"
+  }, {
+    "kt": "2011975405",
+    "nafn": "Ragnhildur \u00d6rvarsd\u00f3ttir",
+    "braut": "SA, SB, SC og SD Skipstj\u00f3rn",
+    "email": "ragnhildur\u00f6r540@gmail.com",
+    "kyn": "kvk"
+  }, {
+    "kt": "2509804220",
+    "nafn": "Ari Reynir \u00c1sgeirsson",
+    "braut": "H\u00fasasm\u00ed\u00f0i",
+    "email": "ari\u00e1s422@onemail.com",
+    "kyn": "kk"
+  }, {
+    "kt": "2302958333",
+    "nafn": "Sigr\u00fan \u00c1sgeirsd\u00f3ttir",
+    "braut": "Flugvirkjan\u00e1m",
+    "email": "sigrun\u00e1s833@outlook.com",
+    "kyn": "kvk"
+  }, {
+    "kt": "0405923124",
+    "nafn": "H\u00f6r\u00f0ur A\u00f0alsteinsson",
+    "braut": "P\u00edpulagnir",
+    "email": "h\u00f6rdurad312@outlook.com",
+    "kyn": "kk"
+  }, {
+    "kt": "0301819565",
+    "nafn": "Elva Huld \u00d3skarsd\u00f3ttir",
+    "braut": "Flugvirkjan\u00e1m",
+    "email": "elva\u00f3s956@vodafone.is",
+    "kyn": "kvk"
+  }, {
+    "kt": "2007926644",
+    "nafn": "Berglind \u00de\u00f3rirsd\u00f3ttir",
+    "braut": "S\u00e9rdeild, starfsn\u00e1msbrautir",
+    "email": "berglind\u00feo664@hotmail.com",
+    "kyn": "kvk"
+  }, {
+    "kt": "0502987803",
+    "nafn": "Freyja Lilja Arnard\u00f3ttir",
+    "braut": "H\u00fasgagnasm\u00ed\u00f0i",
+    "email": "freyjaar780@hotmail.com",
+    "kyn": "kvk"
+  }, {
+    "kt": "1007954943",
+    "nafn": "S\u00e6var Andri Atlason",
+    "braut": "Almenn n\u00e1msbraut AN UTN",
+    "email": "saevarat494@gmail.com",
+    "kyn": "kk"
+  }, {
+    "kt": "2508946231",
+    "nafn": "\u00d3lafur R\u00f3bert Hermannsson",
+    "braut": "Atvinnuflugma\u00f0ur",
+    "email": "olafurhe623@live.com",
+    "kyn": "kk"
+  }, {
+    "kt": "0805906021",
+    "nafn": "Ingi Aron Mikkaelsson",
+    "braut": "S\u00e9rdeild, starfsn\u00e1msbrautir",
+    "email": "ingimi602@gmail.com",
+    "kyn": "kk"
+  }, {
+    "kt": "1603875681",
+    "nafn": "Gu\u00f0mundur Einar Sveinsson",
+    "braut": "Lj\u00f3smyndun",
+    "email": "gudmundursv568@live.com",
+    "kyn": "kk"
+  }, {
+    "kt": "1110955199",
+    "nafn": "H\u00e1kon Stef\u00e1nsson",
+    "braut": "P\u00edpulagnir",
+    "email": "hakonst519@outlook.com",
+    "kyn": "kk"
+  }, {
+    "kt": "2302921936",
+    "nafn": "Hafd\u00eds \u00de\u00f3rarinsd\u00f3ttir",
+    "braut": "Almenn n\u00e1msbraut Handverkssk\u00f3lans",
+    "email": "hafdis\u00feo193@yahoo.com",
+    "kyn": "kvk"
+  }, {
+    "kt": "2708996608",
+    "nafn": "Sveinn Kristinsson",
+    "braut": "Almennt n\u00e1m",
+    "email": "sveinnkr660@live.com",
+    "kyn": "kk"
+  }, {
+    "kt": "1110982252",
+    "nafn": "\u00c1rni Bjarni Kjartansson",
+    "braut": "Uppl\u00fdsinga- og fj\u00f6lmi\u00f0labraut",
+    "email": "arnikj225@gmail.com",
+    "kyn": "kk"
+  }, {
+    "kt": "1910902463",
+    "nafn": "Anton Brynjarsson",
+    "braut": "SA, SB, SC og SD Skipstj\u00f3rn",
+    "email": "antonbr246@aol.com",
+    "kyn": "kk"
+  }, {
+    "kt": "2801871078",
+    "nafn": "Hj\u00f6rd\u00eds Egilsd\u00f3ttir",
+    "braut": "Almenn n\u00e1msb n\u00fdb\u00faa",
+    "email": "hj\u00f6rdiseg107@simnet.is",
+    "kyn": "kvk"
+  }, {
+    "kt": "2503973741",
+    "nafn": "\u00cdris Katr\u00edn Sigur\u00f0sd\u00f3ttir",
+    "braut": "Almenn n\u00e1msb n\u00fdb\u00faa",
+    "email": "irissi374@live.com",
+    "kyn": "kvk"
+  }, {
+    "kt": "0106817734",
+    "nafn": "Arnar \u00de\u00f3r\u00f0arson",
+    "braut": "Almenn n\u00e1msbraut Byggingat\u00e6knisk\u00f3lans",
+    "email": "arnar\u00feo773@gmail.com",
+    "kyn": "kk"
+  }, {
+    "kt": "2012942473",
+    "nafn": "A\u00f0alsteinn Dagursson",
+    "braut": "Almenn n\u00e1msbraut V\u00e9lt\u00e6knisk\u00f3lans",
+    "email": "adalsteinnda247@yahoo.com",
+    "kyn": "kk"
+  }, {
+    "kt": "1402802378",
+    "nafn": "Inga S\u00f3ley Vilhj\u00e1lmsd\u00f3ttir",
+    "braut": "Grunn\u00e1m rafi\u00f0na",
+    "email": "ingavi237@live.com",
+    "kyn": "kvk"
+  }, {
+    "kt": "1211956647",
+    "nafn": "\u00c1slaug Hildur Gunnlaugsd\u00f3ttir",
+    "braut": "Atvinnuflugma\u00f0ur",
+    "email": "aslauggu664@hotmail.com",
+    "kyn": "kvk"
+  }, {
+    "kt": "0508862160",
+    "nafn": "Ragnar Snorri Ingvarsson",
+    "braut": "Prentsm\u00ed\u00f0",
+    "email": "ragnarin216@gmail.com",
+    "kyn": "kk"
+  }, {
+    "kt": "2703965525",
+    "nafn": "H\u00f3lmfr\u00ed\u00f0ur Mikkaelsd\u00f3ttir",
+    "braut": "H\u00e1rsnyrtideild",
+    "email": "holmfridurmi552@simnet.is",
+    "kyn": "kvk"
+  }, {
+    "kt": "2803814248",
+    "nafn": "Hulda Kristinsd\u00f3ttir",
+    "braut": "JOC - \u00dej\u00e1lfun \u00ed \u00feotuflugi",
+    "email": "huldakr424@hotmail.com",
+    "kyn": "kvk"
+  }, {
+    "kt": "0104911384",
+    "nafn": "Dagn\u00fd T\u00f3masd\u00f3ttir",
+    "braut": "Brautir Meistarask\u00f3lans",
+    "email": "dagnyto138@outlook.com",
+    "kyn": "kvk"
+  }, {
+    "kt": "2910814932",
+    "nafn": "An\u00edta Hjaltad\u00f3ttir",
+    "braut": "Almenn n\u00e1msbraut Raft\u00e6knisk\u00f3lans",
+    "email": "anitahj493@live.com",
+    "kyn": "kvk"
+  }, {
+    "kt": "2606853799",
+    "nafn": "Halla Halla Haraldsd\u00f3ttir",
+    "braut": "Dreifn\u00e1m og n\u00e1m me\u00f0 vinnu",
+    "email": "hallaha379@live.com",
+    "kyn": "kvk"
+  }, {
+    "kt": "1205854061",
+    "nafn": "Karl Sindrason",
+    "braut": "Fatai\u00f0n",
+    "email": "karlsi406@live.com",
+    "kyn": "kk"
+  }, {
+    "kt": "1206901559",
+    "nafn": "J\u00fal\u00eda Ingad\u00f3ttir",
+    "braut": "V\u00e9lvirkjabraut",
+    "email": "juliain155@live.com",
+    "kyn": "kvk"
+  }, {
+    "kt": "1911877732",
+    "nafn": "Alexander Atlason",
+    "braut": "T\u00f6lvubraut",
+    "email": "alexanderat773@aol.com",
+    "kyn": "kk"
+  }, {
+    "kt": "1409938465",
+    "nafn": "Anton Karl Aronsson",
+    "braut": "Almenn n\u00e1msbraut AN UTN",
+    "email": "antonar846@gmail.com",
+    "kyn": "kk"
+  }, {
+    "kt": "1309902335",
+    "nafn": "Bj\u00f6rgvin Fannar Bj\u00f6rnsson",
+    "braut": "Janus endurh\u00e6fing",
+    "email": "bj\u00f6rgvinbj233@live.com",
+    "kyn": "kk"
+  }, {
+    "kt": "1008926620",
+    "nafn": "Snorri Le\u00f3 Bjarkason",
+    "braut": "Almenn n\u00e1msbraut Raft\u00e6knisk\u00f3lans",
+    "email": "snorribj662@aol.com",
+    "kyn": "kk"
+  }, {
+    "kt": "2001908169",
+    "nafn": "R\u00f3sa D\u00f3ra \u00d3marsd\u00f3ttir",
+    "braut": "T\u00f6lvubraut",
+    "email": "rosa\u00f3m816@outlook.com",
+    "kyn": "kvk"
+  }, {
+    "kt": "0702912875",
+    "nafn": "Arn\u00f3r Hermannsson",
+    "braut": "Margmi\u00f0lunarsk\u00f3linn",
+    "email": "arnorhe287@vodafone.is",
+    "kyn": "kk"
+  }, {
+    "kt": "1010931997",
+    "nafn": "Sverrir Gu\u00f0mundur Gr\u00e9tarsson",
+    "braut": "Atvinnuflugma\u00f0ur",
+    "email": "sverrirgr199@hotmail.com",
+    "kyn": "kk"
+  }, {
+    "kt": "0410975059",
+    "nafn": "Andri Da\u00f0i Benediktsson",
+    "braut": "Almenn n\u00e1msb n\u00fdb\u00faa",
+    "email": "andribe505@gmail.com",
+    "kyn": "kk"
+  }, {
+    "kt": "1502834158",
+    "nafn": "Hj\u00f6rd\u00eds K\u00e1rad\u00f3ttir",
+    "braut": "Almenn n\u00e1msbraut Handverkssk\u00f3lans",
+    "email": "hj\u00f6rdiska415@simnet.is",
+    "kyn": "kvk"
+  }, {
+    "kt": "0803912547",
+    "nafn": "Emil\u00eda J\u00f3hannsd\u00f3ttir",
+    "braut": "Rafvirkjun",
+    "email": "emiliajo254@vodafone.is",
+    "kyn": "kvk"
+  }, {
+    "kt": "1209927552",
+    "nafn": "Linda Bj\u00f6rnsd\u00f3ttir",
+    "braut": "Grunnn\u00e1msk. flugfr.og flug\u00fej\u00f3na",
+    "email": "lindabj755@outlook.com",
+    "kyn": "kvk"
+  }, {
+    "kt": "1104973526",
+    "nafn": "J\u00f3na Harpa \u00c1sgeirsd\u00f3ttir",
+    "braut": "V\u00e9lstj\u00f3rn -  N\u00e1msstig A, B, C, D",
+    "email": "jona\u00e1s352@hotmail.com",
+    "kyn": "kvk"
+  }, {
+    "kt": "2304885587",
+    "nafn": "\u00d6rn Sk\u00fali Fri\u00f0riksson",
+    "braut": "Einkaflugmannsn\u00e1m",
+    "email": "\u00f6rnfr558@hotmail.com",
+    "kyn": "kk"
+  }, {
+    "kt": "1008835508",
+    "nafn": "Tryggvi \u00d3skarsson",
+    "braut": "N\u00e1tt\u00farufr\u00e6\u00f0ibrautir",
+    "email": "tryggvi\u00f3s550@simnet.is",
+    "kyn": "kk"
+  }, {
+    "kt": "1606805467",
+    "nafn": "Einar R\u00f3bertsson",
+    "braut": "Atvinnuflugma\u00f0ur",
+    "email": "einarro546@simnet.is",
+    "kyn": "kk"
+  }, {
+    "kt": "0906961287",
+    "nafn": "Steinar Kristj\u00e1n Elvarsson",
+    "braut": "Margmi\u00f0lunarsk\u00f3linn",
+    "email": "steinarel128@outlook.com",
+    "kyn": "kk"
+  }, {
+    "kt": "0405948706",
+    "nafn": "Valger\u00f0ur Eir J\u00f3nsd\u00f3ttir",
+    "braut": "Almenn n\u00e1msbraut Byggingat\u00e6knisk\u00f3lans",
+    "email": "valgerdurjo870@yahoo.com",
+    "kyn": "kvk"
+  }, {
+    "kt": "2001964600",
+    "nafn": "Einar Hlynsson",
+    "braut": "St\u00fadentspr\u00f3f af fagbraut",
+    "email": "einarhl460@simnet.is",
+    "kyn": "kk"
+  }, {
+    "kt": "0201981791",
+    "nafn": "R\u00f3sa Halla Bjarnad\u00f3ttir",
+    "braut": "Vefsk\u00f3linn",
+    "email": "rosabj179@live.com",
+    "kyn": "kvk"
+  }, {
+    "kt": "1101843879",
+    "nafn": "Hulda Vilhj\u00e1lmsd\u00f3ttir",
+    "braut": "Flugvirkjan\u00e1m",
+    "email": "huldavi387@outlook.com",
+    "kyn": "kvk"
+  }, {
+    "kt": "1812987124",
+    "nafn": "Baldur Hrafn Ingvarsson",
+    "braut": "H\u00fasgagnasm\u00ed\u00f0i",
+    "email": "baldurin712@live.com",
+    "kyn": "kk"
+  }, {
+    "kt": "1004897634",
+    "nafn": "Dagn\u00fd P\u00e9tursd\u00f3ttir",
+    "braut": "Rafeindavirkjun",
+    "email": "dagnype763@aol.com",
+    "kyn": "kvk"
+  }, {
+    "kt": "1406989567",
+    "nafn": "Gu\u00f0mundur \u00cdsak Matth\u00edasson",
+    "braut": "Almenn n\u00e1msbraut Skipstj\u00f3rnarsk\u00f3lans",
+    "email": "gudmundurma956@outlook.com",
+    "kyn": "kk"
+  }, {
+    "kt": "0106893124",
+    "nafn": "\u00d3lafur Brynjar T\u00f3masson",
+    "braut": "Almenn n\u00e1msbraut Raft\u00e6knisk\u00f3lans",
+    "email": "olafurto312@vodafone.is",
+    "kyn": "kk"
+  }, {
+    "kt": "1901849124",
+    "nafn": "Jakob Magn\u00fasson",
+    "braut": "Margmi\u00f0lunarsk\u00f3linn",
+    "email": "jakobma912@live.com",
+    "kyn": "kk"
+  }, {
+    "kt": "2704933170",
+    "nafn": "Anna Hlynsd\u00f3ttir",
+    "braut": "Veggf\u00f3\u00f0run og d\u00fakalagnir",
+    "email": "annahl317@onemail.com",
+    "kyn": "kvk"
+  }, {
+    "kt": "0803984262",
+    "nafn": "\u00c1sta Magn\u00fasd\u00f3ttir",
+    "braut": "Almenn n\u00e1msbraut Handverkssk\u00f3lans",
+    "email": "astama426@simnet.is",
+    "kyn": "kvk"
+  }, {
+    "kt": "1009914296",
+    "nafn": "\u00de\u00f3ra Valdimarsd\u00f3ttir",
+    "braut": "V\u00e9lt\u00e6knisk\u00f3linn - grunnn\u00e1m",
+    "email": "thorava429@live.com",
+    "kyn": "kvk"
+  }, {
+    "kt": "1910831020",
+    "nafn": "\u00de\u00f3ra Alda Viktorsd\u00f3ttir",
+    "braut": "Rafeindavirkjun",
+    "email": "thoravi102@yahoo.com",
+    "kyn": "kvk"
+  }, {
+    "kt": "0103853574",
+    "nafn": "Sigr\u00fan Gar\u00f0arsd\u00f3ttir",
+    "braut": "Almenn n\u00e1msbraut Handverkssk\u00f3lans",
+    "email": "sigrunga357@outlook.com",
+    "kyn": "kvk"
+  }, {
+    "kt": "1510863903",
+    "nafn": "Krist\u00edn Gu\u00f0laug S\u00e6varsd\u00f3ttir",
+    "braut": "Dreifn\u00e1m og n\u00e1m me\u00f0 vinnu",
+    "email": "kristinsa390@live.com",
+    "kyn": "kvk"
+  }, {
+    "kt": "1911946170",
+    "nafn": "Sigr\u00ed\u00f0ur Helga Gar\u00f0arsd\u00f3ttir",
+    "braut": "Janus endurh\u00e6fing",
+    "email": "sigridurga617@hotmail.com",
+    "kyn": "kvk"
+  }, {
+    "kt": "2612941856",
+    "nafn": "Hrefna Ingad\u00f3ttir",
+    "braut": "P\u00edpulagnir",
+    "email": "hrefnain185@gmail.com",
+    "kyn": "kvk"
+  }, {
+    "kt": "0501888590",
+    "nafn": "Hj\u00f6rtur Trausti H\u00e1konsson",
+    "braut": "Almenn n\u00e1msbraut AN UTN",
+    "email": "hj\u00f6rturha859@hotmail.com",
+    "kyn": "kk"
+  }, {
+    "kt": "2609847766",
+    "nafn": "Arna H\u00e1konsd\u00f3ttir",
+    "braut": "V\u00e9lvirkjabraut",
+    "email": "arnaha776@live.com",
+    "kyn": "kvk"
+  }, {
+    "kt": "0707967341",
+    "nafn": "Ingibj\u00f6rg Hlynsd\u00f3ttir",
+    "braut": "N\u00e1tt\u00farufr\u00e6\u00f0ibrautir",
+    "email": "ingibj\u00f6rghl734@att.net",
+    "kyn": "kvk"
+  }, {
+    "kt": "1910996470",
+    "nafn": "Tryggvi \u00d3li Sigurj\u00f3nsson",
+    "braut": "H\u00e1rsnyrtideild",
+    "email": "tryggvisi647@live.com",
+    "kyn": "kk"
+  }, {
+    "kt": "0706933154",
+    "nafn": "Andrea Kristj\u00e1nsd\u00f3ttir",
+    "braut": "JOC - \u00dej\u00e1lfun \u00ed \u00feotuflugi",
+    "email": "andreakr315@vodafone.is",
+    "kyn": "kvk"
+  }, {
+    "kt": "2207808967",
+    "nafn": "Helga Hanna Bjarkad\u00f3ttir",
+    "braut": "V\u00e9lvirkjabraut",
+    "email": "helgabj896@vodafone.is",
+    "kyn": "kvk"
+  }, {
+    "kt": "0201932812",
+    "nafn": "Gu\u00f0ni Gauti Einarsson",
+    "braut": "Grunn\u00e1m rafi\u00f0na",
+    "email": "gudniei281@gmail.com",
+    "kyn": "kk"
+  }, {
+    "kt": "1904884541",
+    "nafn": "Helgi R\u00f3bert R\u00f3bertsson",
+    "braut": "St\u00fadentspr\u00f3f af fagbraut",
+    "email": "helgiro454@gmail.com",
+    "kyn": "kk"
+  }, {
+    "kt": "1709875039",
+    "nafn": "Gr\u00e9tar Vignir Bj\u00f6rgvinsson",
+    "braut": "Flugkennari",
+    "email": "gretarbj503@live.com",
+    "kyn": "kk"
+  }, {
+    "kt": "2406995428",
+    "nafn": "Hilmar P\u00e1ll Hjartarson",
+    "braut": "Almenn n\u00e1msbraut AN UTN",
+    "email": "hilmarhj542@hotmail.com",
+    "kyn": "kk"
+  }, {
+    "kt": "2401941367",
+    "nafn": "Berglind Sindrad\u00f3ttir",
+    "braut": "T\u00f6lvubraut",
+    "email": "berglindsi136@gmail.com",
+    "kyn": "kvk"
+  }, {
+    "kt": "1301887032",
+    "nafn": "S\u00f3ley P\u00e9tursd\u00f3ttir",
+    "braut": "Grunn\u00e1m rafi\u00f0na \u2013 hra\u00f0fer\u00f0",
+    "email": "soleype703@live.com",
+    "kyn": "kvk"
+  }, {
+    "kt": "2011888652",
+    "nafn": "\u00cdsak Bergmann Viktorsson",
+    "braut": "Uppl\u00fdsinga- og fj\u00f6lmi\u00f0labraut",
+    "email": "isakvi865@outlook.com",
+    "kyn": "kk"
+  }, {
+    "kt": "1102985783",
+    "nafn": "Steinunn \u00d3sk Snorrad\u00f3ttir",
+    "braut": "V\u00e9lstj\u00f3rn -  N\u00e1msstig A, B, C, D",
+    "email": "steinunnsn578@simnet.is",
+    "kyn": "kvk"
+  }, {
+    "kt": "2805804469",
+    "nafn": "Tryggvi \u00d3lafsson",
+    "braut": "Almenn n\u00e1msbraut V\u00e9lt\u00e6knisk\u00f3lans",
+    "email": "tryggvi\u00f3l446@simnet.is",
+    "kyn": "kk"
+  }, {
+    "kt": "0908831169",
+    "nafn": "S\u00f3ley Laufey \u00d3lafsd\u00f3ttir",
+    "braut": "Gull- og silfursm\u00ed\u00f0i",
+    "email": "soley\u00f3l116@simnet.is",
+    "kyn": "kvk"
+  }, {
+    "kt": "2205873516",
+    "nafn": "Snorri Steinn K\u00e1rason",
+    "braut": "Rennism\u00ed\u00f0abraut",
+    "email": "snorrika351@hotmail.com",
+    "kyn": "kk"
+  }, {
+    "kt": "2906924576",
+    "nafn": "Marta Mist Gunnlaugsd\u00f3ttir",
+    "braut": "Prentsm\u00ed\u00f0",
+    "email": "martagu457@gmail.com",
+    "kyn": "kvk"
+  }, {
+    "kt": "1903874878",
+    "nafn": "Sunna \u00c1sgeirsd\u00f3ttir",
+    "braut": "Almenn n\u00e1msbraut Skipstj\u00f3rnarsk\u00f3lans",
+    "email": "sunna\u00e1s487@simnet.is",
+    "kyn": "kvk"
+  }, {
+    "kt": "1610881827",
+    "nafn": "Andri \u00d3lafur Valdimarsson",
+    "braut": "Grunn\u00e1m rafi\u00f0na",
+    "email": "andriva182@onemail.com",
+    "kyn": "kk"
+  }, {
+    "kt": "1412997157",
+    "nafn": "Berglind Sif Sverrirsd\u00f3ttir",
+    "braut": "Vefsk\u00f3linn",
+    "email": "berglindsv715@att.net",
+    "kyn": "kvk"
+  }, {
+    "kt": "0808855439",
+    "nafn": "Margr\u00e9t \u00d3lafsd\u00f3ttir",
+    "braut": "Veggf\u00f3\u00f0run og d\u00fakalagnir",
+    "email": "margret\u00f3l543@outlook.com",
+    "kyn": "kvk"
+  }, {
+    "kt": "1906946540",
+    "nafn": "Andrea Lov\u00edsa Eir\u00edksd\u00f3ttir",
+    "braut": "SA, SB, SC og SD Skipstj\u00f3rn",
+    "email": "andreaei654@outlook.com",
+    "kyn": "kvk"
+  }, {
+    "kt": "3009998279",
+    "nafn": "Hlynur Hei\u00f0ar K\u00e1rason",
+    "braut": "Rafvirkjun",
+    "email": "hlynurka827@outlook.com",
+    "kyn": "kk"
+  }, {
+    "kt": "3006803936",
+    "nafn": "Kolbr\u00fan J\u00f3hannsd\u00f3ttir",
+    "braut": "\u00c1hafnarsamstarf MCC",
+    "email": "kolbrunjo393@aol.com",
+    "kyn": "kvk"
+  }, {
+    "kt": "1702854126",
+    "nafn": "Ingunn \u00de\u00f3rirsd\u00f3ttir",
+    "braut": "H\u00fasasm\u00ed\u00f0i",
+    "email": "ingunn\u00feo412@live.com",
+    "kyn": "kvk"
+  }, {
+    "kt": "3008945295",
+    "nafn": "Hrefna Kristinsd\u00f3ttir",
+    "braut": "Grunn\u00e1m rafi\u00f0na \u2013 hra\u00f0fer\u00f0",
+    "email": "hrefnakr529@simnet.is",
+    "kyn": "kvk"
+  }, {
+    "kt": "2306848193",
+    "nafn": "Au\u00f0ur \u00d3l\u00f6f \u00d3lafsd\u00f3ttir",
+    "braut": "Gull- og silfursm\u00ed\u00f0i",
+    "email": "audur\u00f3l819@vodafone.is",
+    "kyn": "kvk"
+  }, {
+    "kt": "2308982311",
+    "nafn": "Einar \u00de\u00f3rir Jakobsson",
+    "braut": "M\u00e1larai\u00f0n",
+    "email": "einarja231@live.com",
+    "kyn": "kk"
+  }, {
+    "kt": "2907809991",
+    "nafn": "Gr\u00e9tar \u00de\u00f3r\u00f0arson",
+    "braut": "Prentsm\u00ed\u00f0",
+    "email": "gretar\u00feo999@live.com",
+    "kyn": "kk"
+  }, {
+    "kt": "0110868682",
+    "nafn": "Ingvar Kristj\u00e1nsson",
+    "braut": "Atvinnuflugma\u00f0ur",
+    "email": "ingvarkr868@live.com",
+    "kyn": "kk"
+  }, {
+    "kt": "0705908981",
+    "nafn": "Marta Hafsteinsd\u00f3ttir",
+    "braut": "Gull- og silfursm\u00ed\u00f0i",
+    "email": "martaha898@yahoo.com",
+    "kyn": "kvk"
+  }, {
+    "kt": "2704965911",
+    "nafn": "Emil\u00eda Birta Sindrad\u00f3ttir",
+    "braut": "St\u00fadentspr\u00f3f af fagbraut",
+    "email": "emiliasi591@hotmail.com",
+    "kyn": "kvk"
+  }, {
+    "kt": "0409812348",
+    "nafn": "Adam Hjartarson",
+    "braut": "SA, SB, SC og SD Skipstj\u00f3rn",
+    "email": "adamhj234@live.com",
+    "kyn": "kk"
+  }, {
+    "kt": "2011878573",
+    "nafn": "Emil\u00eda L\u00e1ra Hjartard\u00f3ttir",
+    "braut": "H\u00fasasm\u00ed\u00f0i",
+    "email": "emiliahj857@yahoo.com",
+    "kyn": "kvk"
+  }, {
+    "kt": "1504983476",
+    "nafn": "El\u00edsabet Hlynsd\u00f3ttir",
+    "braut": "Atvinnuflugma\u00f0ur",
+    "email": "elisabethl347@vodafone.is",
+    "kyn": "kvk"
+  }, {
+    "kt": "1809981665",
+    "nafn": "J\u00f3na Vilhj\u00e1lmsd\u00f3ttir",
+    "braut": "Grunnn\u00e1m bygg. og mannvirkja",
+    "email": "jonavi166@hotmail.com",
+    "kyn": "kvk"
+  }, {
+    "kt": "3001818047",
+    "nafn": "Gu\u00f0n\u00fd Vald\u00eds T\u00f3masd\u00f3ttir",
+    "braut": "Dreifn\u00e1m og n\u00e1m me\u00f0 vinnu",
+    "email": "gudnyto804@gmail.com",
+    "kyn": "kvk"
+  }, {
+    "kt": "2410984450",
+    "nafn": "\u00c1sta Edda Dav\u00ed\u00f0sd\u00f3ttir",
+    "braut": "Vefsk\u00f3linn",
+    "email": "astada445@gmail.com",
+    "kyn": "kvk"
+  }, {
+    "kt": "1402806891",
+    "nafn": "Au\u00f0ur L\u00e1ra Fri\u00f0riksd\u00f3ttir",
+    "braut": "Fatat\u00e6knir",
+    "email": "audurfr689@outlook.com",
+    "kyn": "kvk"
+  }, {
+    "kt": "0902938815",
+    "nafn": "\u00c1sgeir Sverrirsson",
+    "braut": "H\u00fasgagnasm\u00ed\u00f0i",
+    "email": "asgeirsv881@vodafone.is",
+    "kyn": "kk"
+  }, {
+    "kt": "2210813242",
+    "nafn": "R\u00f3sa Aronsd\u00f3ttir",
+    "braut": "H\u00e1rsnyrtideild",
+    "email": "rosaar324@gmail.com",
+    "kyn": "kvk"
+  }, {
+    "kt": "2705852742",
+    "nafn": "Katr\u00edn J\u00f3n\u00edna Bj\u00f6rgvinsd\u00f3ttir",
+    "braut": "Veggf\u00f3\u00f0run og d\u00fakalagnir",
+    "email": "katrinbj274@aol.com",
+    "kyn": "kvk"
+  }, {
+    "kt": "2206994554",
+    "nafn": "Atli Hrafn Einarsson",
+    "braut": "Margmi\u00f0lunarsk\u00f3linn",
+    "email": "atliei455@outlook.com",
+    "kyn": "kk"
+  }, {
+    "kt": "2604824465",
+    "nafn": "Vilhj\u00e1lmur Valur Gu\u00f0mundsson",
+    "braut": "Flugkennari",
+    "email": "vilhjalmurgu446@live.com",
+    "kyn": "kk"
+  }, {
+    "kt": "2505936785",
+    "nafn": "Emil Gunnlaugsson",
+    "braut": "Flugkennari",
+    "email": "emilgu678@live.com",
+    "kyn": "kk"
+  }, {
+    "kt": "0203843575",
+    "nafn": "Rakel Sigr\u00ed\u00f0ur J\u00f3nsd\u00f3ttir",
+    "braut": "Rafeindavirkjun",
+    "email": "rakeljo357@live.com",
+    "kyn": "kvk"
+  }, {
+    "kt": "2102833980",
+    "nafn": "Matth\u00edas R\u00fanar Dav\u00ed\u00f0sson",
+    "braut": "V\u00e9lvirkjabraut",
+    "email": "matthiasda398@vodafone.is",
+    "kyn": "kk"
+  }, {
+    "kt": "1611885497",
+    "nafn": "Telma Elvarsd\u00f3ttir",
+    "braut": "M\u00e1larai\u00f0n",
+    "email": "telmael549@simnet.is",
+    "kyn": "kvk"
+  }, {
+    "kt": "2805985038",
+    "nafn": "Hlynur J\u00f3hannsson",
+    "braut": "H\u00f6nnunar- og n\u00fdsk\u00f6punarbraut",
+    "email": "hlynurjo503@outlook.com",
+    "kyn": "kk"
+  }, {
+    "kt": "2508947770",
+    "nafn": "\u00de\u00f3rd\u00eds K\u00e1rad\u00f3ttir",
+    "braut": "Prentun",
+    "email": "thordiska777@gmail.com",
+    "kyn": "kvk"
+  }, {
+    "kt": "1603989492",
+    "nafn": "G\u00edsli Gauti Antonsson",
+    "braut": "Grunnn\u00e1m bygg. og mannvirkja",
+    "email": "gislian949@gmail.com",
+    "kyn": "kk"
+  }, {
+    "kt": "1806869467",
+    "nafn": "Sigurlaug Karlsd\u00f3ttir",
+    "braut": "Rafvirkjun",
+    "email": "sigurlaugka946@simnet.is",
+    "kyn": "kvk"
+  }, {
+    "kt": "2706946926",
+    "nafn": "Sveinn J\u00f3hannes \u00d3lafsson",
+    "braut": "\u00c1hafnarsamstarf MCC",
+    "email": "sveinn\u00f3l692@live.com",
+    "kyn": "kk"
+  }, {
+    "kt": "3110908182",
+    "nafn": "J\u00f3hann Arnarson",
+    "braut": "V\u00e9lt\u00e6knisk\u00f3linn - grunnn\u00e1m",
+    "email": "johannar818@vodafone.is",
+    "kyn": "kk"
+  }, {
+    "kt": "2803941749",
+    "nafn": "Vigd\u00eds Birgisd\u00f3ttir",
+    "braut": "SA, SB, SC og SD Skipstj\u00f3rn",
+    "email": "vigdisbi174@hotmail.com",
+    "kyn": "kvk"
+  }, {
+    "kt": "0504895770",
+    "nafn": "Jakob Bjarni Eir\u00edksson",
+    "braut": "St\u00e1lsm\u00ed\u00f0abraut",
+    "email": "jakobei577@live.com",
+    "kyn": "kk"
+  }, {
+    "kt": "2903913345",
+    "nafn": "Gunnlaugur Aronsson",
+    "braut": "\u00c1hafnarsamstarf MCC",
+    "email": "gunnlaugurar334@aol.com",
+    "kyn": "kk"
+  }, {
+    "kt": "2905864372",
+    "nafn": "\u00d6rvar Bjarni \u00c1rnason",
+    "braut": "SA, SB, SC og SD Skipstj\u00f3rn",
+    "email": "\u00f6rvar\u00e1r437@hotmail.com",
+    "kyn": "kk"
+  }, {
+    "kt": "0309985743",
+    "nafn": "S\u00f3ley Gu\u00f0laug Stef\u00e1nsd\u00f3ttir",
+    "braut": "Grunnn\u00e1m bygg. og mannvirkja",
+    "email": "soleyst574@simnet.is",
+    "kyn": "kvk"
+  }, {
+    "kt": "0907879903",
+    "nafn": "\u00d6rvar J\u00f3hann Hafsteinsson",
+    "braut": "Margmi\u00f0lunarsk\u00f3linn",
+    "email": "\u00f6rvarha990@outlook.com",
+    "kyn": "kk"
+  }, {
+    "kt": "0804951695",
+    "nafn": "Hjalti Sverrirsson",
+    "braut": "Brautir Meistarask\u00f3lans",
+    "email": "hjaltisv169@vodafone.is",
+    "kyn": "kk"
+  }, {
+    "kt": "1008977744",
+    "nafn": "S\u00e6var Sveinn Birgisson",
+    "braut": "Dreifn\u00e1m og n\u00e1m me\u00f0 vinnu",
+    "email": "saevarbi774@hotmail.com",
+    "kyn": "kk"
+  }, {
+    "kt": "1803862091",
+    "nafn": "Elvar Helgi R\u00f3bertsson",
+    "braut": "Margmi\u00f0lunarsk\u00f3linn",
+    "email": "elvarro209@gmail.com",
+    "kyn": "kk"
+  }, {
+    "kt": "0912944028",
+    "nafn": "Valdimar Dan\u00edelsson",
+    "braut": "St\u00e1lsm\u00ed\u00f0abraut",
+    "email": "valdimarda402@simnet.is",
+    "kyn": "kk"
+  }, {
+    "kt": "1009867148",
+    "nafn": "H\u00f3lmfr\u00ed\u00f0ur Laufey Gu\u00f0j\u00f3nsd\u00f3ttir",
+    "braut": "Fatat\u00e6knir",
+    "email": "holmfridurgu714@onemail.com",
+    "kyn": "kvk"
+  }, {
+    "kt": "1202913711",
+    "nafn": "Arna Halld\u00f3ra Helgad\u00f3ttir",
+    "braut": "Margmi\u00f0lunarsk\u00f3linn",
+    "email": "arnahe371@hotmail.com",
+    "kyn": "kvk"
+  }, {
+    "kt": "2910846221",
+    "nafn": "\u00c1g\u00fast \u00d3skarsson",
+    "braut": "Dreifn\u00e1m og n\u00e1m me\u00f0 vinnu",
+    "email": "agust\u00f3s622@vodafone.is",
+    "kyn": "kk"
+  }, {
+    "kt": "2812827754",
+    "nafn": "Axel Arason",
+    "braut": "Almenn n\u00e1msbraut AN UTN",
+    "email": "axelar775@outlook.com",
+    "kyn": "kk"
+  }, {
+    "kt": "0110898322",
+    "nafn": "Alexander J\u00f6kull \u00de\u00f3rirsson",
+    "braut": "Flugvirkjan\u00e1m",
+    "email": "alexander\u00feo832@yahoo.com",
+    "kyn": "kk"
+  }, {
+    "kt": "1504963116",
+    "nafn": "Ingibj\u00f6rg Eir G\u00edslad\u00f3ttir",
+    "braut": "Almenn n\u00e1msbraut AN UTN",
+    "email": "ingibj\u00f6rggi311@onemail.com",
+    "kyn": "kvk"
+  }, {
+    "kt": "1110838215",
+    "nafn": "Valdimar Egilsson",
+    "braut": "Rafeindavirkjun",
+    "email": "valdimareg821@gmail.com",
+    "kyn": "kk"
+  }, {
+    "kt": "1109847896",
+    "nafn": "A\u00f0alsteinn Kristinsson",
+    "braut": "Grunnn\u00e1msk. flugfr.og flug\u00fej\u00f3na",
+    "email": "adalsteinnkr789@hotmail.com",
+    "kyn": "kk"
+  }, {
+    "kt": "1804971157",
+    "nafn": "Stef\u00e1n T\u00f3mas Sigur\u00f0sson",
+    "braut": "Grunn\u00e1m rafi\u00f0na",
+    "email": "stefansi115@vodafone.is",
+    "kyn": "kk"
+  }, {
+    "kt": "2406955790",
+    "nafn": "Viktor Hafsteinsson",
+    "braut": "Margmi\u00f0lunarsk\u00f3linn",
+    "email": "viktorha579@yahoo.com",
+    "kyn": "kk"
+  }, {
+    "kt": "0903844354",
+    "nafn": "Atli Birgir Dan\u00edelsson",
+    "braut": "N\u00e1tt\u00farufr\u00e6\u00f0ibrautir",
+    "email": "atlida435@outlook.com",
+    "kyn": "kk"
+  }, {
+    "kt": "3004982277",
+    "nafn": "Gu\u00f0laug Sveinsd\u00f3ttir",
+    "braut": "Almenn n\u00e1msbraut Skipstj\u00f3rnarsk\u00f3lans",
+    "email": "gudlaugsv227@vodafone.is",
+    "kyn": "kvk"
+  }, {
+    "kt": "1602839510",
+    "nafn": "Lilja Arna Benediktsd\u00f3ttir",
+    "braut": "M\u00e1larai\u00f0n",
+    "email": "liljabe951@live.com",
+    "kyn": "kvk"
+  }, {
+    "kt": "2207804116",
+    "nafn": "Valdimar Sigurj\u00f3nsson",
+    "braut": "M\u00e1larai\u00f0n",
+    "email": "valdimarsi411@gmail.com",
+    "kyn": "kk"
+  }, {
+    "kt": "0510816031",
+    "nafn": "Ing\u00f3lfur Gunnar Gar\u00f0arsson",
+    "braut": "Grunn\u00e1m rafi\u00f0na \u2013 hra\u00f0fer\u00f0",
+    "email": "ingolfurga603@gmail.com",
+    "kyn": "kk"
+  }, {
+    "kt": "0803919348",
+    "nafn": "Karen H\u00e1konsd\u00f3ttir",
+    "braut": "Rennism\u00ed\u00f0abraut",
+    "email": "karenha934@hotmail.com",
+    "kyn": "kvk"
+  }, {
+    "kt": "2208869860",
+    "nafn": "Inga Hlynsd\u00f3ttir",
+    "braut": "Lj\u00f3smyndun",
+    "email": "ingahl986@gmail.com",
+    "kyn": "kvk"
+  }, {
+    "kt": "2010851119",
+    "nafn": "El\u00edn Birgisd\u00f3ttir",
+    "braut": "Almenn n\u00e1msb n\u00fdb\u00faa",
+    "email": "elinbi111@live.com",
+    "kyn": "kvk"
+  }, {
+    "kt": "0201955713",
+    "nafn": "Krist\u00f3fer Dagursson",
+    "braut": "V\u00e9lt\u00e6knisk\u00f3linn - grunnn\u00e1m",
+    "email": "kristoferda571@live.com",
+    "kyn": "kk"
+  }, {
+    "kt": "2208816498",
+    "nafn": "Bjarki Darri Bjarnason",
+    "braut": "\u00c1hafnarsamstarf MCC",
+    "email": "bjarkibj649@gmail.com",
+    "kyn": "kk"
+  }, {
+    "kt": "2308805880",
+    "nafn": "Hlynur Steinar Brynjarsson",
+    "braut": "Dreifn\u00e1m og n\u00e1m me\u00f0 vinnu",
+    "email": "hlynurbr588@live.com",
+    "kyn": "kk"
+  }, {
+    "kt": "3006805002",
+    "nafn": "Halld\u00f3r A\u00f0alsteinsson",
+    "braut": "Almenn n\u00e1msbraut AN UTN",
+    "email": "halldorad500@vodafone.is",
+    "kyn": "kk"
+  }, {
+    "kt": "2708835741",
+    "nafn": "Krist\u00edn \u00de\u00f3rirsd\u00f3ttir",
+    "braut": "Prentsm\u00ed\u00f0",
+    "email": "kristin\u00feo574@live.com",
+    "kyn": "kvk"
+  }, {
+    "kt": "1801817112",
+    "nafn": "Fri\u00f0rik Hauksson",
+    "braut": "St\u00fadentspr\u00f3f af fagbraut",
+    "email": "fridrikha711@yahoo.com",
+    "kyn": "kk"
+  }, {
+    "kt": "2812821416",
+    "nafn": "Viktor Fri\u00f0rik Kjartansson",
+    "braut": "Almenn n\u00e1msbraut V\u00e9lt\u00e6knisk\u00f3lans",
+    "email": "viktorkj141@outlook.com",
+    "kyn": "kk"
+  }, {
+    "kt": "1207835712",
+    "nafn": "J\u00f3hanna Haraldsd\u00f3ttir",
+    "braut": "T\u00f6lvubraut",
+    "email": "johannaha571@aol.com",
+    "kyn": "kvk"
+  }, {
+    "kt": "2906856030",
+    "nafn": "\u00c1slaug Hanna Arnarsd\u00f3ttir",
+    "braut": "T\u00e6kniteiknun",
+    "email": "aslaugar603@live.com",
+    "kyn": "kvk"
+  }, {
+    "kt": "1510841949",
+    "nafn": "Birna Dr\u00f6fn S\u00e6varsd\u00f3ttir",
+    "braut": "Janus endurh\u00e6fing",
+    "email": "birnasa194@hotmail.com",
+    "kyn": "kvk"
+  }, {
+    "kt": "2811937984",
+    "nafn": "Unnur Lilja \u00c1sgeirsd\u00f3ttir",
+    "braut": "Veggf\u00f3\u00f0run og d\u00fakalagnir",
+    "email": "unnur\u00e1s798@gmail.com",
+    "kyn": "kvk"
+  }, {
+    "kt": "2603829517",
+    "nafn": "Harpa Brynjarsd\u00f3ttir",
+    "braut": "S\u00e9rdeild, starfsn\u00e1msbrautir",
+    "email": "harpabr951@gmail.com",
+    "kyn": "kvk"
+  }, {
+    "kt": "1806998237",
+    "nafn": "Berglind D\u00f6gg J\u00f3hannsd\u00f3ttir",
+    "braut": "Flugkennari",
+    "email": "berglindjo823@yahoo.com",
+    "kyn": "kvk"
+  }, {
+    "kt": "2101959706",
+    "nafn": "\u00cdris R\u00fan Eir\u00edksd\u00f3ttir",
+    "braut": "Lj\u00f3smyndun",
+    "email": "irisei970@vodafone.is",
+    "kyn": "kvk"
+  }, {
+    "kt": "0610891406",
+    "nafn": "Atli \u00c1sgeirsson",
+    "braut": "Uppl\u00fdsinga- og fj\u00f6lmi\u00f0labraut",
+    "email": "atli\u00e1s140@outlook.com",
+    "kyn": "kk"
+  }, {
+    "kt": "1806888847",
+    "nafn": "Sigurj\u00f3n El\u00ed Sverrirsson",
+    "braut": "V\u00e9lvirkjabraut",
+    "email": "sigurjonsv884@live.com",
+    "kyn": "kk"
+  }, {
+    "kt": "1703891698",
+    "nafn": "Einar Steinn \u00c1sgeirsson",
+    "braut": "Prentun",
+    "email": "einar\u00e1s169@hotmail.com",
+    "kyn": "kk"
+  }, {
+    "kt": "2010962104",
+    "nafn": "Helgi Elvar Gar\u00f0arsson",
+    "braut": "Prentsm\u00ed\u00f0",
+    "email": "helgiga210@yahoo.com",
+    "kyn": "kk"
+  }, {
+    "kt": "2107902881",
+    "nafn": "Kristj\u00e1n J\u00f3hann Arnarson",
+    "braut": "Fatai\u00f0n",
+    "email": "kristjanar288@live.com",
+    "kyn": "kk"
+  }, {
+    "kt": "2803916487",
+    "nafn": "Dagur Magn\u00fasson",
+    "braut": "Flugkennari",
+    "email": "dagurma648@simnet.is",
+    "kyn": "kk"
+  }, {
+    "kt": "2009817456",
+    "nafn": "Benedikt \u00d3marsson",
+    "braut": "Atvinnuflugma\u00f0ur",
+    "email": "benedikt\u00f3m745@outlook.com",
+    "kyn": "kk"
+  }, {
+    "kt": "0602966363",
+    "nafn": "Tinna J\u00f3hannsd\u00f3ttir",
+    "braut": "Flugvirkjan\u00e1m",
+    "email": "tinnajo636@gmail.com",
+    "kyn": "kvk"
+  }, {
+    "kt": "0302921735",
+    "nafn": "Brynd\u00eds \u00cdsaksd\u00f3ttir",
+    "braut": "Brautir Meistarask\u00f3lans",
+    "email": "bryndis\u00eds173@simnet.is",
+    "kyn": "kvk"
+  }, {
+    "kt": "1606979511",
+    "nafn": "Ragnar Andrason",
+    "braut": "Vefsk\u00f3linn",
+    "email": "ragnaran951@hotmail.com",
+    "kyn": "kk"
+  }, {
+    "kt": "2105872375",
+    "nafn": "Halla Mar\u00edn Jakobsd\u00f3ttir",
+    "braut": "M\u00fari\u00f0n",
+    "email": "hallaja237@gmail.com",
+    "kyn": "kvk"
+  }, {
+    "kt": "1404987571",
+    "nafn": "Haraldur \u00de\u00f3rir Ragnarsson",
+    "braut": "M\u00e1larai\u00f0n",
+    "email": "haraldurra757@gmail.com",
+    "kyn": "kk"
+  }, {
+    "kt": "0604874554",
+    "nafn": "J\u00f3na Arad\u00f3ttir",
+    "braut": "Almenn n\u00e1msbraut Handverkssk\u00f3lans",
+    "email": "jonaar455@hotmail.com",
+    "kyn": "kvk"
+  }, {
+    "kt": "1611807225",
+    "nafn": "Erla Alda Aronsd\u00f3ttir",
+    "braut": "Grunn\u00e1m rafi\u00f0na \u2013 hra\u00f0fer\u00f0",
+    "email": "erlaar722@outlook.com",
+    "kyn": "kvk"
+  }, {
+    "kt": "0211968977",
+    "nafn": "\u00d3lafur Snorrason",
+    "braut": "Almenn n\u00e1msbraut Raft\u00e6knisk\u00f3lans",
+    "email": "olafursn897@yahoo.com",
+    "kyn": "kk"
+  }, {
+    "kt": "0309986307",
+    "nafn": "Kolbr\u00fan J\u00f3hanna \u00c1rnad\u00f3ttir",
+    "braut": "Almenn n\u00e1msbraut V\u00e9lt\u00e6knisk\u00f3lans",
+    "email": "kolbrun\u00e1r630@vodafone.is",
+    "kyn": "kvk"
+  }, {
+    "kt": "1807991655",
+    "nafn": "A\u00f0alhei\u00f0ur Hanna \u00deorsteinsd\u00f3ttir",
+    "braut": "N\u00e1tt\u00farufr\u00e6\u00f0ibrautir",
+    "email": "adalheidur\u00feo165@simnet.is",
+    "kyn": "kvk"
+  }, {
+    "kt": "1004891326",
+    "nafn": "Hjalti Helgason",
+    "braut": "S\u00e9rdeild, starfsn\u00e1msbrautir",
+    "email": "hjaltihe132@hotmail.com",
+    "kyn": "kk"
+  }, {
+    "kt": "3006812652",
+    "nafn": "Sara G\u00edslad\u00f3ttir",
+    "braut": "Rennism\u00ed\u00f0abraut",
+    "email": "saragi265@live.com",
+    "kyn": "kvk"
+  }, {
+    "kt": "3006869478",
+    "nafn": "Ey\u00f0\u00f3r Gr\u00e9tarsson",
+    "braut": "Gull- og silfursm\u00ed\u00f0i",
+    "email": "eydorgr947@gmail.com",
+    "kyn": "kk"
+  }, {
+    "kt": "0807937441",
+    "nafn": "Gunnlaugur Reynisson",
+    "braut": "Rafeindavirkjun",
+    "email": "gunnlaugurre744@simnet.is",
+    "kyn": "kk"
+  }, {
+    "kt": "1309996631",
+    "nafn": "Gu\u00f0bj\u00f6rg L\u00e1ra J\u00f3hannesd\u00f3ttir",
+    "braut": "Grunn\u00e1m rafi\u00f0na \u2013 hra\u00f0fer\u00f0",
+    "email": "gudbj\u00f6rgjo663@vodafone.is",
+    "kyn": "kvk"
+  }, {
+    "kt": "0512977977",
+    "nafn": "Rakel Erla \u00c1sgeirsd\u00f3ttir",
+    "braut": "Prentsm\u00ed\u00f0",
+    "email": "rakel\u00e1s797@live.com",
+    "kyn": "kvk"
+  }, {
+    "kt": "0112873190",
+    "nafn": "Gunnlaugur Andrason",
+    "braut": "T\u00e6kniteiknun",
+    "email": "gunnlauguran319@live.com",
+    "kyn": "kk"
+  }, {
+    "kt": "1602851003",
+    "nafn": "Sara Krist\u00f3fersd\u00f3ttir",
+    "braut": "N\u00e1tt\u00farufr\u00e6\u00f0ibrautir",
+    "email": "sarakr100@yahoo.com",
+    "kyn": "kvk"
+  }, {
+    "kt": "0301911322",
+    "nafn": "Emil\u00eda Helga Aronsd\u00f3ttir",
+    "braut": "\u00c1hafnarsamstarf MCC",
+    "email": "emiliaar132@live.com",
+    "kyn": "kvk"
+  }, {
+    "kt": "0809942418",
+    "nafn": "\u00c1g\u00fast Gauti Snorrason",
+    "braut": "St\u00e1lsm\u00ed\u00f0abraut",
+    "email": "agustsn241@simnet.is",
+    "kyn": "kk"
+  }, {
+    "kt": "3011995484",
+    "nafn": "A\u00f0alhei\u00f0ur Kjartansd\u00f3ttir",
+    "braut": "Almenn n\u00e1msbraut V\u00e9lt\u00e6knisk\u00f3lans",
+    "email": "adalheidurkj548@hotmail.com",
+    "kyn": "kvk"
+  }, {
+    "kt": "2705814877",
+    "nafn": "Hafsteinn Kristinn Bjarkason",
+    "braut": "N\u00e1tt\u00farufr\u00e6\u00f0ibrautir",
+    "email": "hafsteinnbj487@simnet.is",
+    "kyn": "kk"
+  }, {
+    "kt": "1508823052",
+    "nafn": "Helga Laufey Bj\u00f6rgvinsd\u00f3ttir",
+    "braut": "\u00c1hafnarsamstarf MCC",
+    "email": "helgabj305@onemail.com",
+    "kyn": "kvk"
+  }, {
+    "kt": "2910873543",
+    "nafn": "Tryggvi Baldursson",
+    "braut": "T\u00f6lvubraut",
+    "email": "tryggviba354@hotmail.com",
+    "kyn": "kk"
+  }, {
+    "kt": "2512912920",
+    "nafn": "J\u00f3nas Kristj\u00e1n Birkirsson",
+    "braut": "Vefsk\u00f3linn",
+    "email": "jonasbi292@live.com",
+    "kyn": "kk"
+  }, {
+    "kt": "1002965461",
+    "nafn": "Vigd\u00eds Mj\u00f6ll J\u00f3nasd\u00f3ttir",
+    "braut": "Prentsm\u00ed\u00f0",
+    "email": "vigdisjo546@hotmail.com",
+    "kyn": "kvk"
+  }, {
+    "kt": "1801881764",
+    "nafn": "Einar J\u00f3hannes J\u00f3hannesson",
+    "braut": "\u00c1hafnarsamstarf MCC",
+    "email": "einarjo176@live.com",
+    "kyn": "kk"
+  }, {
+    "kt": "1904968133",
+    "nafn": "Sverrir P\u00e9tursson",
+    "braut": "Grunnn\u00e1msk. flugfr.og flug\u00fej\u00f3na",
+    "email": "sverrirpe813@gmail.com",
+    "kyn": "kk"
+  }, {
+    "kt": "2109964016",
+    "nafn": "Fri\u00f0rik Einar \u00c1sgeirsson",
+    "braut": "S\u00e9rdeild, starfsn\u00e1msbrautir",
+    "email": "fridrik\u00e1s401@outlook.com",
+    "kyn": "kk"
+  }, {
+    "kt": "1907899150",
+    "nafn": "Birna T\u00f3masd\u00f3ttir",
+    "braut": "\u00c1hafnarsamstarf MCC",
+    "email": "birnato915@live.com",
+    "kyn": "kvk"
+  }, {
+    "kt": "1009904718",
+    "nafn": "P\u00e9tur \u00d6rn Emilsson",
+    "braut": "Einkaflugmannsn\u00e1m",
+    "email": "peturem471@gmail.com",
+    "kyn": "kk"
+  }, {
+    "kt": "1911838282",
+    "nafn": "Matth\u00edas Alexander \u00cdsaksson",
+    "braut": "Rennism\u00ed\u00f0abraut",
+    "email": "matthias\u00eds828@outlook.com",
+    "kyn": "kk"
+  }, {
+    "kt": "1101942828",
+    "nafn": "Bj\u00f6rgvin P\u00e9tur Gunnlaugsson",
+    "braut": "Gull- og silfursm\u00ed\u00f0i",
+    "email": "bj\u00f6rgvingu282@vodafone.is",
+    "kyn": "kk"
+  }, {
+    "kt": "0512926384",
+    "nafn": "Bj\u00f6rgvin Reynir \u00d3lafsson",
+    "braut": "Margmi\u00f0lunarsk\u00f3linn",
+    "email": "bj\u00f6rgvin\u00f3l638@yahoo.com",
+    "kyn": "kk"
+  }, {
+    "kt": "1301829618",
+    "nafn": "Bjarni J\u00f3hannsson",
+    "braut": "Flugvirkjan\u00e1m",
+    "email": "bjarnijo961@live.com",
+    "kyn": "kk"
+  }, {
+    "kt": "1812813175",
+    "nafn": "Atli Haraldsson",
+    "braut": "Uppl\u00fdsinga- og fj\u00f6lmi\u00f0labraut",
+    "email": "atliha317@vodafone.is",
+    "kyn": "kk"
+  }, {
+    "kt": "2702855363",
+    "nafn": "H\u00f6r\u00f0ur Mikkaelsson",
+    "braut": "Prentsm\u00ed\u00f0",
+    "email": "h\u00f6rdurmi536@gmail.com",
+    "kyn": "kk"
+  }, {
+    "kt": "1701947934",
+    "nafn": "Axel \u00c1sgeir Hermannsson",
+    "braut": "Blindflugs\u00e1ritun",
+    "email": "axelhe793@live.com",
+    "kyn": "kk"
+  }, {
+    "kt": "2602922441",
+    "nafn": "J\u00f3n Jakobsson",
+    "braut": "T\u00f6lvubraut",
+    "email": "jonja244@live.com",
+    "kyn": "kk"
+  }, {
+    "kt": "0411953707",
+    "nafn": "Aron P\u00e1ll Ingason",
+    "braut": "Almenn n\u00e1msbraut V\u00e9lt\u00e6knisk\u00f3lans",
+    "email": "aronin370@live.com",
+    "kyn": "kk"
+  }, {
+    "kt": "2310869229",
+    "nafn": "\u00de\u00f3ra Margr\u00e9t Dagursd\u00f3ttir",
+    "braut": "Almenn n\u00e1msbraut Handverkssk\u00f3lans",
+    "email": "thorada922@outlook.com",
+    "kyn": "kvk"
+  }, {
+    "kt": "1204926712",
+    "nafn": "\u00c1sa Einarsd\u00f3ttir",
+    "braut": "Rennism\u00ed\u00f0abraut",
+    "email": "asaei671@yahoo.com",
+    "kyn": "kvk"
+  }, {
+    "kt": "0205887224",
+    "nafn": "Hjalti Berg Antonsson",
+    "braut": "Almenn n\u00e1msbraut Byggingat\u00e6knisk\u00f3lans",
+    "email": "hjaltian722@gmail.com",
+    "kyn": "kk"
+  }, {
+    "kt": "0810837297",
+    "nafn": "Emil\u00eda G\u00edslad\u00f3ttir",
+    "braut": "Almenn n\u00e1msbraut V\u00e9lt\u00e6knisk\u00f3lans",
+    "email": "emiliagi729@vodafone.is",
+    "kyn": "kvk"
+  }, {
+    "kt": "2112821495",
+    "nafn": "Jakob Sk\u00fali Egilsson",
+    "braut": "H\u00fasgagnasm\u00ed\u00f0i",
+    "email": "jakobeg149@outlook.com",
+    "kyn": "kk"
+  }, {
+    "kt": "0409807548",
+    "nafn": "J\u00f3hann J\u00f3hann J\u00f3nsson",
+    "braut": "Flugkennari",
+    "email": "johannjo754@simnet.is",
+    "kyn": "kk"
+  }, {
+    "kt": "0802958519",
+    "nafn": "Gu\u00f0j\u00f3n \u00c1rnason",
+    "braut": "Dreifn\u00e1m og n\u00e1m me\u00f0 vinnu",
+    "email": "gudjon\u00e1r851@outlook.com",
+    "kyn": "kk"
+  }, {
+    "kt": "2211977859",
+    "nafn": "J\u00f3n Ingvi Hlynsson",
+    "braut": "M\u00fari\u00f0n",
+    "email": "jonhl785@vodafone.is",
+    "kyn": "kk"
+  }, {
+    "kt": "2606874756",
+    "nafn": "\u00d3skar Arason",
+    "braut": "Einkaflugmannsn\u00e1m",
+    "email": "oskarar475@aol.com",
+    "kyn": "kk"
+  }, {
+    "kt": "2702864958",
+    "nafn": "Tryggvi Axel Sverrirsson",
+    "braut": "Brautir Meistarask\u00f3lans",
+    "email": "tryggvisv495@live.com",
+    "kyn": "kk"
+  }, {
+    "kt": "0503947868",
+    "nafn": "Ingunn Magnea Viktorsd\u00f3ttir",
+    "braut": "Brautir Meistarask\u00f3lans",
+    "email": "ingunnvi786@gmail.com",
+    "kyn": "kvk"
+  }, {
+    "kt": "0312832346",
+    "nafn": "Halld\u00f3r Hei\u00f0ar Alexandersson",
+    "braut": "H\u00f6nnunar- og n\u00fdsk\u00f6punarbraut",
+    "email": "halldoral234@gmail.com",
+    "kyn": "kk"
+  }, {
+    "kt": "2004842733",
+    "nafn": "R\u00f3bert Sverrirsson",
+    "braut": "Gull- og silfursm\u00ed\u00f0i",
+    "email": "robertsv273@hotmail.com",
+    "kyn": "kk"
+  }, {
+    "kt": "3004934574",
+    "nafn": "Hildur Karlsd\u00f3ttir",
+    "braut": "Grunnn\u00e1msk. flugfr.og flug\u00fej\u00f3na",
+    "email": "hildurka457@simnet.is",
+    "kyn": "kvk"
+  }, {
+    "kt": "0404938844",
+    "nafn": "Matth\u00edas Helgason",
+    "braut": "N\u00e1tt\u00farufr\u00e6\u00f0ibrautir",
+    "email": "matthiashe884@yahoo.com",
+    "kyn": "kk"
+  }, {
+    "kt": "3007939283",
+    "nafn": "Haraldur Dagur P\u00e9tursson",
+    "braut": "\u00c1hafnarsamstarf MCC",
+    "email": "haraldurpe928@gmail.com",
+    "kyn": "kk"
+  }, {
+    "kt": "0111811464",
+    "nafn": "Halld\u00f3ra L\u00f3a \u00d3marsd\u00f3ttir",
+    "braut": "Almenn n\u00e1msbraut Raft\u00e6knisk\u00f3lans",
+    "email": "halldora\u00f3m146@simnet.is",
+    "kyn": "kvk"
+  }, {
+    "kt": "1308809028",
+    "nafn": "Katr\u00edn Sindrad\u00f3ttir",
+    "braut": "H\u00fasgagnasm\u00ed\u00f0i",
+    "email": "katrinsi902@hotmail.com",
+    "kyn": "kvk"
+  }, {
+    "kt": "0309944742",
+    "nafn": "J\u00f3hannes \u00d3lafur A\u00f0alsteinsson",
+    "braut": "\u00c1hafnarsamstarf MCC",
+    "email": "johannesad474@vodafone.is",
+    "kyn": "kk"
+  }, {
+    "kt": "1301966571",
+    "nafn": "Hermann K\u00e1rason",
+    "braut": "H\u00fasasm\u00ed\u00f0i",
+    "email": "hermannka657@hotmail.com",
+    "kyn": "kk"
+  }, {
+    "kt": "1710833388",
+    "nafn": "S\u00f3lveig Huld Bjarkad\u00f3ttir",
+    "braut": "Almenn n\u00e1msbraut Raft\u00e6knisk\u00f3lans",
+    "email": "solveigbj338@hotmail.com",
+    "kyn": "kvk"
+  }, {
+    "kt": "0412955634",
+    "nafn": "Hanna Aronsd\u00f3ttir",
+    "braut": "Dreifn\u00e1m og n\u00e1m me\u00f0 vinnu",
+    "email": "hannaar563@hotmail.com",
+    "kyn": "kvk"
+  }, {
+    "kt": "0409983630",
+    "nafn": "Halld\u00f3r Gauti Arason",
+    "braut": "SA, SB, SC og SD Skipstj\u00f3rn",
+    "email": "halldorar363@outlook.com",
+    "kyn": "kk"
+  }, {
+    "kt": "0802971630",
+    "nafn": "Ragnhei\u00f0ur Unnur Matth\u00edasd\u00f3ttir",
+    "braut": "Almenn n\u00e1msbraut AN UTN",
+    "email": "ragnheidurma163@yahoo.com",
+    "kyn": "kvk"
+  }, {
+    "kt": "1006875668",
+    "nafn": "Axel Sigurj\u00f3nsson",
+    "braut": "Brautir Meistarask\u00f3lans",
+    "email": "axelsi566@gmail.com",
+    "kyn": "kk"
+  }, {
+    "kt": "0805901623",
+    "nafn": "Gu\u00f0bj\u00f6rg Dav\u00ed\u00f0sd\u00f3ttir",
+    "braut": "Einkaflugmannsn\u00e1m",
+    "email": "gudbj\u00f6rgda162@live.com",
+    "kyn": "kvk"
+  }, {
+    "kt": "2311886399",
+    "nafn": "Krist\u00edn \u00de\u00f3rirsd\u00f3ttir",
+    "braut": "Almenn n\u00e1msbraut Skipstj\u00f3rnarsk\u00f3lans",
+    "email": "kristin\u00feo639@hotmail.com",
+    "kyn": "kvk"
+  }, {
+    "kt": "0908956710",
+    "nafn": "L\u00e1ra Gu\u00f0nad\u00f3ttir",
+    "braut": "St\u00fadentspr\u00f3f af fagbraut",
+    "email": "laragu671@live.com",
+    "kyn": "kvk"
+  }, {
+    "kt": "1607936505",
+    "nafn": "Brynja \u00d3l\u00f6f Matth\u00edasd\u00f3ttir",
+    "braut": "P\u00edpulagnir",
+    "email": "brynjama650@simnet.is",
+    "kyn": "kvk"
+  }, {
+    "kt": "0903869469",
+    "nafn": "Steinar \u00d3lafsson",
+    "braut": "Flugkennari",
+    "email": "steinar\u00f3l946@simnet.is",
+    "kyn": "kk"
+  }, {
+    "kt": "0107812329",
+    "nafn": "Dav\u00ed\u00f0 S\u00e6varsson",
+    "braut": "Janus endurh\u00e6fing",
+    "email": "davidsa232@live.com",
+    "kyn": "kk"
+  }, {
+    "kt": "0612933709",
+    "nafn": "Adam \u00de\u00f3rir P\u00e1llsson",
+    "braut": "Fatai\u00f0n",
+    "email": "adampa370@hotmail.com",
+    "kyn": "kk"
+  }, {
+    "kt": "2601949363",
+    "nafn": "Egill Fri\u00f0rik \u00deorsteinsson",
+    "braut": "Einkaflugmannsn\u00e1m",
+    "email": "egill\u00feo936@onemail.com",
+    "kyn": "kk"
+  }, {
+    "kt": "1107849633",
+    "nafn": "L\u00e1ra Vala Tryggvad\u00f3ttir",
+    "braut": "Almenn n\u00e1msbraut Skipstj\u00f3rnarsk\u00f3lans",
+    "email": "laratr963@outlook.com",
+    "kyn": "kvk"
+  }, {
+    "kt": "2309978830",
+    "nafn": "Laufey Elva Hjaltad\u00f3ttir",
+    "braut": "Almenn n\u00e1msbraut V\u00e9lt\u00e6knisk\u00f3lans",
+    "email": "laufeyhj883@live.com",
+    "kyn": "kvk"
+  }, {
+    "kt": "3110928581",
+    "nafn": "Elsa Gu\u00f0bj\u00f6rg J\u00f3nasd\u00f3ttir",
+    "braut": "Blindflugs\u00e1ritun",
+    "email": "elsajo858@simnet.is",
+    "kyn": "kvk"
+  }, {
+    "kt": "0607806273",
+    "nafn": "Hildur Jakobsd\u00f3ttir",
+    "braut": "T\u00f6lvubraut",
+    "email": "hildurja627@live.com",
+    "kyn": "kvk"
+  }, {
+    "kt": "1010818077",
+    "nafn": "\u00cdris R\u00fan G\u00edslad\u00f3ttir",
+    "braut": "M\u00e1larai\u00f0n",
+    "email": "irisgi807@outlook.com",
+    "kyn": "kvk"
+  }, {
+    "kt": "2005806606",
+    "nafn": "Stefan\u00eda P\u00e1llsd\u00f3ttir",
+    "braut": "Almenn n\u00e1msbraut Skipstj\u00f3rnarsk\u00f3lans",
+    "email": "stefaniapa660@outlook.com",
+    "kyn": "kvk"
+  }, {
+    "kt": "2111833223",
+    "nafn": "J\u00f3nas Magn\u00fasson",
+    "braut": "Grunnn\u00e1msk. flugfr.og flug\u00fej\u00f3na",
+    "email": "jonasma322@aol.com",
+    "kyn": "kk"
+  }, {
+    "kt": "2204825933",
+    "nafn": "Andrea D\u00eds \u00deorsteinsd\u00f3ttir",
+    "braut": "Almennt n\u00e1m",
+    "email": "andrea\u00feo593@hotmail.com",
+    "kyn": "kvk"
+  }, {
+    "kt": "0905935516",
+    "nafn": "Sunna El\u00edn \u00d3marsd\u00f3ttir",
+    "braut": "S\u00e9rdeild, starfsn\u00e1msbrautir",
+    "email": "sunna\u00f3m551@hotmail.com",
+    "kyn": "kvk"
+  }, {
+    "kt": "1111899466",
+    "nafn": "Eir\u00edkur Steinn Ragnarsson",
+    "braut": "T\u00f6lvubraut",
+    "email": "eirikurra946@hotmail.com",
+    "kyn": "kk"
+  }, {
+    "kt": "2609932826",
+    "nafn": "\u00de\u00f3rd\u00eds Ingad\u00f3ttir",
+    "braut": "Grunnn\u00e1m bygg. og mannvirkja",
+    "email": "thordisin282@yahoo.com",
+    "kyn": "kvk"
+  }, {
+    "kt": "2202816807",
+    "nafn": "Vigd\u00eds Steinunn Ingvarsd\u00f3ttir",
+    "braut": "St\u00fadentspr\u00f3f af fagbraut",
+    "email": "vigdisin680@live.com",
+    "kyn": "kvk"
+  }, {
+    "kt": "0209923236",
+    "nafn": "Karl Har\u00f0arson",
+    "braut": "Rafvirkjun",
+    "email": "karlha323@gmail.com",
+    "kyn": "kk"
+  }, {
+    "kt": "1810874075",
+    "nafn": "Fri\u00f0rik Krist\u00f3fersson",
+    "braut": "Veggf\u00f3\u00f0run og d\u00fakalagnir",
+    "email": "fridrikkr407@simnet.is",
+    "kyn": "kk"
+  }, {
+    "kt": "1511969874",
+    "nafn": "Sigr\u00fan Hlynsd\u00f3ttir",
+    "braut": "Margmi\u00f0lunarsk\u00f3linn",
+    "email": "sigrunhl987@hotmail.com",
+    "kyn": "kvk"
+  }, {
+    "kt": "1605972484",
+    "nafn": "\u00deorbj\u00f6rg Sif \u00deorsteinsd\u00f3ttir",
+    "braut": "\u00c1hafnarsamstarf MCC",
+    "email": "thorbj\u00f6rg\u00feo248@gmail.com",
+    "kyn": "kvk"
+  }, {
+    "kt": "1202832772",
+    "nafn": "Valger\u00f0ur S\u00e6varsd\u00f3ttir",
+    "braut": "SA, SB, SC og SD Skipstj\u00f3rn",
+    "email": "valgerdursa277@live.com",
+    "kyn": "kvk"
+  }, {
+    "kt": "1907993362",
+    "nafn": "Kjartan Hermannsson",
+    "braut": "Rafeindavirkjun",
+    "email": "kjartanhe336@hotmail.com",
+    "kyn": "kk"
+  }, {
+    "kt": "2307847761",
+    "nafn": "Inga Hrund Atlad\u00f3ttir",
+    "braut": "Grunnn\u00e1m bygg. og mannvirkja",
+    "email": "ingaat776@live.com",
+    "kyn": "kvk"
+  }, {
+    "kt": "0310932956",
+    "nafn": "Ragnhei\u00f0ur Reynisd\u00f3ttir",
+    "braut": "V\u00e9lstj\u00f3rn -  N\u00e1msstig A, B, C, D",
+    "email": "ragnheidurre295@live.com",
+    "kyn": "kvk"
+  }, {
+    "kt": "2501895476",
+    "nafn": "P\u00e1ll Matth\u00edasson",
+    "braut": "Prentun",
+    "email": "pallma547@gmail.com",
+    "kyn": "kk"
+  }, {
+    "kt": "0105968056",
+    "nafn": "J\u00f3n\u00edna Matth\u00edasd\u00f3ttir",
+    "braut": "Grunn\u00e1m rafi\u00f0na",
+    "email": "joninama805@hotmail.com",
+    "kyn": "kvk"
+  }, {
+    "kt": "3007809766",
+    "nafn": "Alexandra G\u00edslad\u00f3ttir",
+    "braut": "Blindflugs\u00e1ritun",
+    "email": "alexandragi976@onemail.com",
+    "kyn": "kvk"
+  }, {
+    "kt": "2111829799",
+    "nafn": "Valger\u00f0ur L\u00edsa Gar\u00f0arsd\u00f3ttir",
+    "braut": "V\u00e9lt\u00e6knisk\u00f3linn - grunnn\u00e1m",
+    "email": "valgerdurga979@outlook.com",
+    "kyn": "kvk"
+  }, {
+    "kt": "0511886499",
+    "nafn": "Atli Ragnarsson",
+    "braut": "Vefsk\u00f3linn",
+    "email": "atlira649@simnet.is",
+    "kyn": "kk"
+  }, {
+    "kt": "0406885506",
+    "nafn": "Mikkael Gar\u00f0ar Eir\u00edksson",
+    "braut": "\u00c1hafnarsamstarf MCC",
+    "email": "mikkaelei550@gmail.com",
+    "kyn": "kk"
+  }, {
+    "kt": "2006952255",
+    "nafn": "Kolbr\u00fan Karen Ragnarsd\u00f3ttir",
+    "braut": "V\u00e9lstj\u00f3rn -  N\u00e1msstig A, B, C, D",
+    "email": "kolbrunra225@gmail.com",
+    "kyn": "kvk"
+  }, {
+    "kt": "1404805524",
+    "nafn": "Hilmar Viktorsson",
+    "braut": "Atvinnuflugma\u00f0ur",
+    "email": "hilmarvi552@yahoo.com",
+    "kyn": "kk"
+  }, {
+    "kt": "2109932954",
+    "nafn": "Margr\u00e9t Eir \u00de\u00f3r\u00f0ard\u00f3ttir",
+    "braut": "M\u00e1larai\u00f0n",
+    "email": "margret\u00feo295@gmail.com",
+    "kyn": "kvk"
+  }, {
+    "kt": "1211872274",
+    "nafn": "\u00deorbj\u00f6rg J\u00f3hannesd\u00f3ttir",
+    "braut": "T\u00f6lvubraut",
+    "email": "thorbj\u00f6rgjo227@gmail.com",
+    "kyn": "kvk"
+  }, {
+    "kt": "2604803885",
+    "nafn": "Steinar Emil Adamson",
+    "braut": "JOC - \u00dej\u00e1lfun \u00ed \u00feotuflugi",
+    "email": "steinarad388@vodafone.is",
+    "kyn": "kk"
+  }, {
+    "kt": "2905841626",
+    "nafn": "Atli \u00c1sgeirsson",
+    "braut": "Einkaflugmannsn\u00e1m",
+    "email": "atli\u00e1s162@simnet.is",
+    "kyn": "kk"
+  }, {
+    "kt": "0206982692",
+    "nafn": "Sara Sara J\u00f3hannesd\u00f3ttir",
+    "braut": "Fatat\u00e6knir",
+    "email": "sarajo269@hotmail.com",
+    "kyn": "kvk"
+  }, {
+    "kt": "2303862848",
+    "nafn": "Arna Helga Sindrad\u00f3ttir",
+    "braut": "H\u00fasgagnasm\u00ed\u00f0i",
+    "email": "arnasi284@gmail.com",
+    "kyn": "kvk"
+  }, {
+    "kt": "1204902081",
+    "nafn": "Dan\u00edel Jakob P\u00e9tursson",
+    "braut": "Uppl\u00fdsinga- og fj\u00f6lmi\u00f0labraut",
+    "email": "danielpe208@hotmail.com",
+    "kyn": "kk"
+  }]
+}
